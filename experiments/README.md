@@ -7,3 +7,4 @@ to `experiments/data/` (not committed) and its write-up to
 | Script | Question | Write-up |
 |---|---|---|
 | `build_reuters_lsa.py` + `probe.run` | Does the pipeline work on real text? | `findings/real_text_check.md` |
+| `sample_size.py` | How many labeled chunks does each concept need? | `findings/sample_size.md` |
