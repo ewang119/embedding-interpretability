@@ -3,3 +3,5 @@ pandas
 scikit-learn
 torch
 pytest
+nltk
+matplotlib

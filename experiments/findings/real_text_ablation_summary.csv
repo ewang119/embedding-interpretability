@@ -1,0 +1,7 @@
+mode,k,median_top_drop,median_random_drop,share_beating_all_random
+frozen,10,0.042,0.001,0.45
+frozen,50,0.247,0.013,0.9
+frozen,100,0.571,0.068,1.0
+retrain,10,0.046,0.001,0.55
+retrain,50,0.138,0.005,0.775
+retrain,100,0.347,0.033,0.875

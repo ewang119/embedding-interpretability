@@ -1,0 +1,10 @@
+,original,rotated,ratio,note
+median_avg_precision,0.905,0.908,1.0,
+concentration_top10,0.267,0.224,1.19,even spread = 0.039
+stability_top10,0.482,0.431,1.12,
+retrain_drop_top10,0.046,0.01,4.6,
+retrain_drop_random10,0.0,0.001,0.0,
+concentration_top50,0.677,0.63,1.07,even spread = 0.195
+stability_top50,0.537,0.526,1.02,
+retrain_drop_top50,0.138,0.046,3.0,
+retrain_drop_random50,0.004,0.009,0.44,
