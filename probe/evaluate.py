@@ -13,7 +13,7 @@ from __future__ import annotations
 
 import numpy as np
 import pandas as pd
-from sklearn.metrics import average_precision_score, precision_recall_fscore_support
+from sklearn.metrics import average_precision_score
 
 
 def tune_thresholds(probs: np.ndarray, Y: np.ndarray, default: float = 0.5) -> np.ndarray:
@@ -42,9 +42,32 @@ def average_precision(probs: np.ndarray, Y: np.ndarray) -> np.ndarray:
     return ap
 
 
+def _counts(pred: np.ndarray, Y: np.ndarray):
+    """True/false positives and false negatives per concept (column).
+
+    Done by hand rather than with sklearn: with a single concept sklearn
+    reads an (N, 1) label array as one binary problem and scores both the
+    "yes" and the "no" class, which broke the table and turned micro F1
+    into accuracy.
+    """
+    Y = np.asarray(Y) > 0
+    pred = np.asarray(pred) > 0
+    return (pred & Y).sum(0), (pred & ~Y).sum(0), (~pred & Y).sum(0)
+
+
+def _f1(tp, fp, fn):
+    tp, fp, fn = (np.asarray(v, dtype=float) for v in (tp, fp, fn))
+    with np.errstate(divide="ignore", invalid="ignore"):
+        p = np.where(tp + fp > 0, tp / (tp + fp), 0.0)
+        r = np.where(tp + fn > 0, tp / (tp + fn), 0.0)
+        f1 = np.where(p + r > 0, 2 * p * r / (p + r), 0.0)
+    return p, r, f1
+
+
 def per_concept(probs: np.ndarray, Y: np.ndarray, thresholds: np.ndarray, concepts) -> pd.DataFrame:
-    pred = (probs >= thresholds).astype(int)
-    p, r, f1, support = precision_recall_fscore_support(Y, pred, average=None, zero_division=0)
+    tp, fp, fn = _counts(probs >= thresholds, Y)
+    p, r, f1 = _f1(tp, fp, fn)
+    support = tp + fn
     return pd.DataFrame(
         {
             "support": support.astype(int),
@@ -60,8 +83,8 @@ def per_concept(probs: np.ndarray, Y: np.ndarray, thresholds: np.ndarray, concep
 
 
 def summary(table: pd.DataFrame, probs: np.ndarray, Y: np.ndarray) -> dict:
-    pred = (probs >= table["threshold"].to_numpy()).astype(int)
-    _, _, micro_f1, _ = precision_recall_fscore_support(Y, pred, average="micro", zero_division=0)
+    tp, fp, fn = _counts(probs >= table["threshold"].to_numpy(), Y)
+    _, _, micro_f1 = _f1(tp.sum(), fp.sum(), fn.sum())
     scored = table[table["support"] > 0]
     return {
         "macro_f1": float(scored["f1"].mean()),
