@@ -114,3 +114,16 @@ each source in one split.
 - Synthetic tests plant signal in a few positions. Real embeddings probably
   spread concepts out, so expect lower concentration and stability, and
   expect frozen and retrain ablation to disagree more.
+
+## Bag-of-words baseline
+
+```bash
+python -m probe.baseline --texts data/wwii/texts.csv --labels data/wwii/labels.csv \
+    --split-from results/wwii_run1/split.json \
+    --out results/bow --compare results/wwii_run1/per_concept.csv
+```
+
+TF-IDF plus one logistic regression per anchor, with the same metrics as
+`probe.run`. `--split-from` reuses the run's exact train/val/test passages
+(sources kept together), so both are scored on the same test set.
+`--compare` writes a side-by-side table with a winner per anchor. See `experiments/findings/bow_baseline.md`.
