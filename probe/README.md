@@ -26,6 +26,10 @@ takes about a minute on a laptop CPU.
    concept keeps its share of positives in every split. Concepts with fewer
    than 5 test positives are dropped with a warning (`--min-test-pos`), since
    their F1 means nothing.
+   With `--meta meta.csv` (columns `id`, `source_id`, optional `split`), all
+   passages from one source go to the same split, so a model can't score
+   well just by recognizing an article it saw in training. A full `split`
+   column is used as given (and rejected if a source spans two splits).
 2. **Standardize** each position using train-set mean and std. Needed so weight
    sizes can be compared across positions, and it means "zero out a position"
    is the same as "set it to its average" (mean ablation).
