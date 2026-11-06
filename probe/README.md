@@ -78,6 +78,23 @@ probe still ranks chunks correctly, which would make F1 drops misleading.
 | `standardizer.npz` | train mean/std per position; the reconstruction step needs this |
 | `split.json`, `label_counts.csv` | which chunk went where, positives per split |
 
+## From WWII passages to a run
+
+```bash
+python3 -m validation.validate_wwii --anchors validation/data/anchors.json \
+    --chunks validation/data/chunks.jsonl --out results/wwii_validation
+python3 -m probe.export_wwii --anchors validation/data/anchors.json \
+    --chunks validation/data/chunks.jsonl --out data/wwii
+# embed data/wwii/texts.csv (row order) -> data/wwii/embeddings.npy
+python -m probe.run --embeddings data/wwii/embeddings.npy --labels data/wwii/labels.csv \
+    --meta data/wwii/meta.csv --out results/wwii_run1
+```
+
+`export_wwii` reruns the validator and refuses to export errors or
+unreviewed (null) labels; `--reviewed-only` exports just the fully labeled
+passages for a pilot. `meta.csv` carries `source_id` so `probe.run` keeps
+each source in one split.
+
 ## Hooks for the other pieces
 
 - **Reconstruction / inverter**: the inverter needs raw vectors. Use
