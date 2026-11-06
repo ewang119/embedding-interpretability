@@ -26,6 +26,10 @@ takes about a minute on a laptop CPU.
    concept keeps its share of positives in every split. Concepts with fewer
    than 5 test positives are dropped with a warning (`--min-test-pos`), since
    their F1 means nothing.
+   With `--meta meta.csv` (columns `id`, `source_id`, optional `split`), all
+   passages from one source go to the same split, so a model can't score
+   well just by recognizing an article it saw in training. A full `split`
+   column is used as given (and rejected if a source spans two splits).
 2. **Standardize** each position using train-set mean and std. Needed so weight
    sizes can be compared across positions, and it means "zero out a position"
    is the same as "set it to its average" (mean ablation).
@@ -74,6 +78,23 @@ probe still ranks chunks correctly, which would make F1 drops misleading.
 | `standardizer.npz` | train mean/std per position; the reconstruction step needs this |
 | `split.json`, `label_counts.csv` | which chunk went where, positives per split |
 
+## From WWII passages to a run
+
+```bash
+python3 -m validation.validate_wwii --anchors validation/data/anchors.json \
+    --chunks validation/data/chunks.jsonl --out results/wwii_validation
+python3 -m probe.export_wwii --anchors validation/data/anchors.json \
+    --chunks validation/data/chunks.jsonl --out data/wwii
+# embed data/wwii/texts.csv (row order) -> data/wwii/embeddings.npy
+python -m probe.run --embeddings data/wwii/embeddings.npy --labels data/wwii/labels.csv \
+    --meta data/wwii/meta.csv --out results/wwii_run1
+```
+
+`export_wwii` reruns the validator and refuses to export errors or
+unreviewed (null) labels; `--reviewed-only` exports just the fully labeled
+passages for a pilot. `meta.csv` carries `source_id` so `probe.run` keeps
+each source in one split.
+
 ## Hooks for the other pieces
 
 - **Reconstruction / inverter**: the inverter needs raw vectors. Use
@@ -93,3 +114,16 @@ probe still ranks chunks correctly, which would make F1 drops misleading.
 - Synthetic tests plant signal in a few positions. Real embeddings probably
   spread concepts out, so expect lower concentration and stability, and
   expect frozen and retrain ablation to disagree more.
+
+## Bag-of-words baseline
+
+```bash
+python -m probe.baseline --texts data/wwii/texts.csv --labels data/wwii/labels.csv \
+    --split-from results/wwii_run1/split.json \
+    --out results/bow --compare results/wwii_run1/per_concept.csv
+```
+
+TF-IDF plus one logistic regression per anchor, with the same metrics as
+`probe.run`. `--split-from` reuses the run's exact train/val/test passages
+(sources kept together), so both are scored on the same test set.
+`--compare` writes a side-by-side table with a winner per anchor. See `experiments/findings/bow_baseline.md`.

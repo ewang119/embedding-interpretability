@@ -2,6 +2,10 @@
 
     python -m probe.run --embeddings data/embeddings.npy --labels data/labels.csv --out results/run1
 
+    # WWII data: keep passages from one source in one split
+    python -m probe.run --embeddings data/wwii/embeddings.npy --labels data/wwii/labels.csv \
+        --meta data/wwii/meta.csv --out results/wwii_run1
+
 Steps:
  1. load + check data, stratified train/val/test split, standardize on train
  2. train the linear probe, tune thresholds on val, score on test
@@ -23,7 +27,9 @@ from pathlib import Path
 import numpy as np
 
 from . import ablation, positions
-from .data import Standardizer, label_report, load, save_split, stratified_split
+import pandas as pd
+
+from .data import Standardizer, label_report, load, save_split, split_from_meta, stratified_split
 from .evaluate import per_concept, summary, tune_thresholds
 from .train import TrainConfig, predict_proba, train_probe, tune_regularization
 
@@ -34,6 +40,8 @@ def main(argv=None):
     ap.add_argument("--labels", required=True, help=".csv, optional id column + one 0/1 column per concept")
     ap.add_argument("--out", required=True)
     ap.add_argument("--split", type=float, nargs=3, default=(0.7, 0.1, 0.2), metavar=("TRAIN", "VAL", "TEST"))
+    ap.add_argument("--meta", help="optional .csv with id + source_id and/or split per chunk: "
+                    "a full split column is used as given, else chunks from one source stay together")
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--min-test-pos", type=int, default=5,
                     help="concepts with fewer test positives are dropped (their F1 means nothing)")
@@ -53,7 +61,15 @@ def main(argv=None):
 
     # 1. data ---------------------------------------------------------------
     data = load(args.embeddings, args.labels)
-    splits_idx = stratified_split(data.Y, args.split, seed=args.seed)
+    if args.meta:
+        try:
+            splits_idx, split_mode = split_from_meta(pd.read_csv(args.meta), data.ids, data.Y,
+                                                     args.split, args.seed)
+        except ValueError as e:
+            sys.exit(f"--meta: {e}")
+    else:
+        splits_idx, split_mode = stratified_split(data.Y, args.split, seed=args.seed), "stratified by chunk"
+    print(f"split: {split_mode} ({', '.join(str(len(s)) for s in splits_idx)} chunks)", file=sys.stderr)
     counts = label_report(data.Y, splits_idx, data.concepts)
     counts.to_csv(out / "label_counts.csv")
 
@@ -130,7 +146,6 @@ def main(argv=None):
         abl.append(ablation.run(S, top, table["avg_precision"].to_numpy(), concepts, cfg,
                                 mode="retrain", n_random=args.n_random, seed=args.seed))
     if abl:
-        import pandas as pd
         pd.concat(abl).to_csv(out / "ablation.csv", index=False)
 
     # 6. specificity --------------------------------------------------------
@@ -145,7 +160,7 @@ def main(argv=None):
         summ.update({f"random_jaccard_top{k}": positions.random_jaccard(data.d, k) for k in ks})
     result = {
         "n_chunks": data.n, "d": data.d, "n_concepts": len(concepts),
-        "split_sizes": [len(tr), len(va), len(te)],
+        "split_sizes": [len(tr), len(va), len(te)], "split_mode": split_mode,
         "config": cfg.to_dict(), "regularization_search": tuning, "training": {k: hist[k] for k in ("best_epoch", "epochs_run", "best_val_loss")},
         "summary": summ,
     }

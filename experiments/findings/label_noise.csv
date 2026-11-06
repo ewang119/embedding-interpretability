@@ -1,0 +1,13 @@
+kind,rate,ap_clean_test,ap_noisy_test,top_overlap_with_clean
+false yes,0.0,0.918,0.918,1.0
+false yes,0.05,0.906,0.871,0.581
+false yes,0.1,0.892,0.844,0.52
+false yes,0.2,0.884,0.765,0.381
+false yes,0.3,0.872,0.699,0.333
+missed yes,0.0,0.918,0.918,1.0
+missed yes,0.05,0.915,0.871,0.818
+missed yes,0.1,0.907,0.823,0.818
+missed yes,0.2,0.909,0.749,0.667
+missed yes,0.3,0.887,0.659,0.538
+reference: drop chunks,0.05,0.917,0.917,0.818
+reference: drop chunks,0.1,0.913,0.913,0.818

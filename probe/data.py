@@ -69,7 +69,8 @@ def load(embeddings_path: str | Path, labels_path: str | Path) -> ProbeData:
 # Split
 # ---------------------------------------------------------------------------
 
-def stratified_split(Y: np.ndarray, fracs=(0.7, 0.1, 0.2), seed: int = 0) -> list[np.ndarray]:
+def stratified_split(Y: np.ndarray, fracs=(0.7, 0.1, 0.2), seed: int = 0,
+                     groups=None) -> list[np.ndarray]:
     """Multi-label iterative stratification (Sechidis et al., 2011, simplified).
 
     A plain random split can leave a rare concept with zero positives in the
@@ -77,42 +78,104 @@ def stratified_split(Y: np.ndarray, fracs=(0.7, 0.1, 0.2), seed: int = 0) -> lis
     first and sends each of its chunks to whichever split still needs the
     most positives for it, so every split gets close to its share of every
     concept. Returns index arrays in the order of `fracs` (train, val, test).
+
+    groups: optional group key per chunk (e.g. the WWII `source_id`). All
+    chunks of a group go to the same split, so passages from one article
+    never end up in both train and test. Groups are placed whole, weighted by
+    how many chunks and positives they hold, so proportions are approximate
+    when a few groups are large. Without groups every chunk is its own group
+    and the result is the same as before groups were supported.
     """
     rng = np.random.default_rng(seed)
     Y = np.asarray(Y) > 0
-    n, n_concepts = Y.shape
+    n = Y.shape[0]
+    if groups is None:
+        member = np.arange(n)
+    else:
+        groups = np.asarray(groups)
+        if len(groups) != n:
+            raise ValueError(f"{len(groups)} group keys for {n} chunks")
+        _, first, member = np.unique(groups, return_index=True, return_inverse=True)
+        # renumber groups by first appearance so the result doesn't depend on key spelling
+        order = np.argsort(np.argsort(first))
+        member = order[member]
+    n_groups = member.max() + 1
+    L = np.zeros((n_groups, Y.shape[1]), dtype=np.int64)       # positives per group and concept
+    np.add.at(L, member, Y.astype(np.int64))
+    size = np.bincount(member, minlength=n_groups)              # chunks per group
+
     fracs = np.asarray(fracs, dtype=float) / np.sum(fracs)
     n_splits = len(fracs)
-
-    want_label = fracs[:, None] * Y.sum(0)[None, :]   # (S, D) positives each split still wants
+    want_label = fracs[:, None] * L.sum(0)[None, :]   # (S, D) positives each split still wants
     want_total = fracs * n                            # (S,) chunks each split still wants
-    assign = np.full(n, -1)
+    assign = np.full(n_groups, -1)
 
-    def place(i: int, s: int):
-        assign[i] = s
-        want_label[s] -= Y[i]
-        want_total[s] -= 1
+    def place(g: int, s: int):
+        assign[g] = s
+        want_label[s] -= L[g]
+        want_total[s] -= size[g]
 
     while True:
         open_ = assign < 0
-        counts = Y[open_].sum(0)
+        counts = L[open_].sum(0)
         if counts.max() == 0:
             break
         c = int(np.argmin(np.where(counts > 0, counts, np.iinfo(np.int64).max)))
-        rows = np.flatnonzero(open_ & Y[:, c])
+        rows = np.flatnonzero(open_ & (L[:, c] > 0))
         rng.shuffle(rows)
-        for i in rows:
+        for g in rows:
             best = np.flatnonzero(want_label[:, c] == want_label[:, c].max())
             if len(best) > 1:
                 best = best[want_total[best] == want_total[best].max()]
-            place(i, int(rng.choice(best)))
+            place(g, int(rng.choice(best)))
 
-    rest = np.flatnonzero(assign < 0)       # chunks with no positive label at all
+    rest = np.flatnonzero(assign < 0)       # groups with no positive label at all
     rng.shuffle(rest)
-    for i in rest:
-        place(i, int(np.argmax(want_total)))
+    for g in rest:
+        place(g, int(np.argmax(want_total)))
 
-    return [np.sort(np.flatnonzero(assign == s)) for s in range(n_splits)]
+    chunk_split = assign[member]
+    return [np.sort(np.flatnonzero(chunk_split == s)) for s in range(n_splits)]
+
+
+SPLIT_NAMES = ("train", "val", "test")
+
+
+def split_from_meta(meta: pd.DataFrame, ids: list[str], Y: np.ndarray, fracs=(0.7, 0.1, 0.2),
+                    seed: int = 0) -> tuple[list[np.ndarray], str]:
+    """Split using a per-chunk metadata table (columns: id, optional source_id, optional split).
+
+    - every chunk has a `split` (train/val/test) -> use it as given
+    - otherwise, `source_id` present          -> stratified split, sources kept whole
+    - otherwise                               -> plain stratified split by chunk
+    Returns (train, val, test index arrays, description of what was done).
+    """
+    meta = meta.copy()
+    meta["id"] = meta["id"].astype(str)
+    if meta["id"].duplicated().any():
+        raise ValueError("meta has duplicate ids")
+    missing = set(ids) - set(meta["id"])
+    if missing:
+        raise ValueError(f"{len(missing)} chunk ids missing from meta, e.g. {sorted(missing)[:3]}")
+    meta = meta.set_index("id").loc[list(ids)]
+
+    if "split" in meta.columns and meta["split"].notna().all() and (meta["split"].astype(str) != "").all():
+        bad = set(meta["split"]) - set(SPLIT_NAMES)
+        if bad:
+            raise ValueError(f"split values must be train/val/test, got {sorted(bad)}")
+        parts = [np.flatnonzero(meta["split"].to_numpy() == s) for s in SPLIT_NAMES]
+        if any(len(p) == 0 for p in parts):
+            raise ValueError("given split leaves train, val or test empty")
+        if "source_id" in meta.columns:
+            src = meta["source_id"].to_numpy()
+            crossing = {s for s in src if len({meta['split'].iloc[i] for i in np.flatnonzero(src == s)}) > 1}
+            if crossing:
+                raise ValueError(f"{len(crossing)} source(s) appear in more than one split, e.g. {sorted(crossing)[:3]}")
+        return parts, "given in meta"
+    if "source_id" in meta.columns and meta["source_id"].notna().all():
+        return stratified_split(Y, fracs, seed, groups=meta["source_id"].astype(str).to_numpy()), \
+            "stratified, sources kept whole"
+    return stratified_split(Y, fracs, seed), "stratified by chunk"
 
 
 # ---------------------------------------------------------------------------
