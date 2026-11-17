@@ -1,0 +1,12 @@
+{
+  "url": "https://www.nps.gov/articles/victory-gardens-at-oak-ridge.htm",
+  "title": "Victory Gardens at Oak Ridge",
+  "paragraphs": [
+    "With the pressing demands of feeding the nation’s fighting forces and the nationwide rationing of canned foods there was a desire and need for people to grow locally. Victory Gardens could be found all over the country during WWII, from the backyards in Oak Ridge to the rooftops in New York City. Near the end of the war there were approximately 20 million Victory Gardens producing 40 percent of vegetables consumed in the United States. Gardeners would can any extra food to last them through the winter months. Rationing in the 1940s during World War II was a part of every day life throughout the United States. Food was in high demand and due to the need to feed the men and women fighting the war, the government encouraged Americans to grow food to feed their families and to prevent a national food shortage. The garden could include: potatoes, tomatoes, onions, beans, peas, cabbage, zucchini, beets, sweet potatoes and squash. Gardens could also include herbs such as oregano, thyme, sage, basil and chives. Fruit trees were also grown. Grapes, apples, pears and peaches were poplar items in the Tennessee area and could be grown very easily. Foods were preserved by canning. Jellies were made from grapes and other wild berries. Green beans could be dried by “stringing” and hanging them up to dry. Apples were dried by slicing and placing on a white sheet or cloth in the sun. Root cellars were also used to store items like potatoes and jars of canned foods."
+  ],
+  "links": [],
+  "sha256": "4e226dbd4d0c1462ad73c886e3812b476bfdc9d3f06305d81f50f564685a7fcd",
+  "retrieved_utc": "2026-11-17T16:37:55Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

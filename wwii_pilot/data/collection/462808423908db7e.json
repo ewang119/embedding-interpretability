@@ -1,0 +1,14 @@
+{
+  "url": "https://www.nps.gov/articles/philippinesmilitarynurses.htm",
+  "title": "Military Nurses in the Philippines",
+  "paragraphs": [
+    "The Japanese Army invaded the Philippines so quickly after their December 7, 1941 attack on Pearl Harbor , that General Douglas MacArthur had to pull U.S. forces back to the Bataan Peninsula within weeks. Nurses were soon posted at hospitals both at Bataan and on the nearby Island of Corregidor. The hospital on Corregidor was deep underground. At Bataan, the Army built the first open-air hospital since the Civil War . The 2,900-bed unit served U.S. and Filipino soldiers, women, children and Japanese prisoners. Nurses slept near the safety of fox holes as bombs fell nearby. Trucks continually brought wounded from the front, filling up operating tables in tents. One night, doctors and nurses donated their own blood for amputees.",
+    "The Japanese captured the hospitals at Bataan and Corregidor in May 1942. One nurse wrote of the surrender at Corregidor:",
+    "The 99 captured nurses lived in a prison camp on the University of Santo Tomas campus for the remainder of the war, enduring shortages of clothing and food while caring for other prisoners. They were freed in January 1945 and returned to U.S. Army Letterman General Hospital at the Presidio , where they were given promotions and awarded the Purple Heart."
+  ],
+  "links": [],
+  "sha256": "3d901f84ad7b2491f7381749f7df8c46a587ca8980b4cc5225e62f944892702b",
+  "retrieved_utc": "2026-11-17T16:37:55Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

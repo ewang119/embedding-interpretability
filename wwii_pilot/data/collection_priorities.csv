@@ -1,0 +1,41 @@
+﻿code,anchor_id,name,definition_status,draft_positive,draft_negative,unreviewed,known_source_positive,distinct_known_positive_sources,verified_source_positive,distinct_verified_positive_sources,human_reviewed_positive,target_positive,positive_shortfall
+A10,us_neutrality_intervention,US shift from neutrality to intervention,user_supplied,25,975,0,13,8,11,6,0,75,50
+A14,persecution_jews_before_war,Persecution of Jews before the war,user_supplied,25,975,0,13,6,12,5,0,75,50
+A07,appeasement_germany,Appeasement of Germany in the 1930s,user_supplied,25,975,0,14,9,14,9,0,75,50
+A09,nazi_soviet_pact_fallout,Nazi-Soviet Pact (Molotov-Ribbentrop Pact) and its fallout,user_supplied,25,975,0,17,8,17,8,0,75,50
+A29,allied_command_coordination,Allied command coordination,user_supplied,25,975,0,19,10,5,4,0,75,50
+A25,oil_fuel_constraints,Oil and fuel constraints on operations,user_supplied,25,975,0,21,13,10,6,0,75,50
+A22,lend_lease_supply,Lend-Lease and allied supply,user_supplied,25,975,0,23,12,11,5,0,75,50
+A32,espionage_deception,Espionage and deception operations,provisional_inferred,25,975,0,24,14,24,14,0,75,50
+A35,rocketry_v_weapons,Rocketry and V-weapons,provisional_inferred,25,975,0,24,12,24,12,0,75,50
+A24,axis_exploitation_occupied_economies,Axis exploitation of occupied economies,user_supplied,25,975,0,25,14,12,8,0,75,50
+A26,aircraft_shipbuilding_output,Aircraft and shipbuilding output,user_supplied,25,975,0,25,17,7,7,0,75,50
+A27,churchill_rhetoric_public_morale,Churchill’s rhetoric and public morale,user_supplied,25,975,0,25,15,14,8,0,75,50
+A33,atomic_bomb_development,Atomic bomb development,provisional_inferred,25,975,0,25,14,25,14,0,75,50
+A18,pow_treatment,Treatment of prisoners of war,user_supplied,26,974,0,12,8,12,8,0,75,49
+A02,siege_encirclement_warfare,Siege and encirclement warfare,user_supplied,26,974,0,14,11,12,9,0,75,49
+A03,pacific_amphibious_campaigns,Pacific island and amphibious campaigns,user_supplied,26,974,0,14,5,14,5,0,75,49
+A06,normandy_landings,D-Day and the Normandy landings,user_supplied,27,973,0,13,6,13,6,0,75,48
+A04,atlantic_convoy_warfare,Battle of the Atlantic and convoy warfare,user_supplied,27,973,0,14,9,12,7,0,75,48
+A20,war_crimes_prosecution,"War crimes prosecution (Nuremberg, Tokyo)",user_supplied,27,973,0,14,7,14,7,0,75,48
+A34,radar_air_defense,Radar and air defense,provisional_inferred,27,973,0,27,13,23,10,0,75,48
+A31,codebreaking_ultra,"Codebreaking (Enigma, Ultra)",provisional_inferred,28,972,0,26,15,26,15,0,75,47
+A28,hitler_interference_military_command,Hitler’s interference in military command,user_supplied,28,972,0,28,11,16,7,0,75,47
+A08,munich_agreement,Munich Agreement and Czechoslovakia,user_supplied,29,971,0,17,8,17,8,0,75,46
+A19,forced_labor,Forced labor,user_supplied,31,969,0,16,10,12,8,0,75,44
+A38,civilian_bombing_sheltering,Civilian experience of bombing and sheltering,provisional_inferred,31,969,0,28,15,27,14,0,75,44
+A30,stalin_purges_red_army,Stalin’s purges and the Red Army,user_supplied,31,969,0,30,12,18,7,0,75,44
+A17,collaboration_resistance,Collaboration vs. resistance in occupied Europe,user_supplied,32,968,0,16,10,16,10,0,75,43
+A23,blockade_resource_scarcity,Blockade and resource scarcity,user_supplied,32,968,0,29,20,15,12,0,75,43
+A01,eastern_front_attrition_logistics,Eastern Front attrition and logistics,user_supplied,33,967,0,17,12,14,10,0,75,42
+A11,japanese_expansionism,Japanese expansionism and the road to the Pacific war,user_supplied,33,967,0,18,12,17,11,0,75,42
+A13,postwar_settlement_planning,Postwar settlement planning,user_supplied,34,966,0,15,10,11,8,0,75,41
+A40,japanese_american_internment,Japanese American internment,provisional_inferred,34,966,0,34,19,34,19,0,75,41
+A16,occupation_civilian_reprisals,Occupation policy and civilian reprisals,user_supplied,35,965,0,17,14,17,14,0,75,40
+A36,rationing_civilian_austerity,Rationing and civilian austerity,provisional_inferred,35,965,0,34,21,33,20,0,75,40
+A15,holocaust_extermination_camps,The Holocaust and extermination camps,user_supplied,36,964,0,14,9,14,9,0,75,39
+A05,strategic_bombing_campaigns,Strategic bombing as an operational campaign,user_supplied,36,964,0,24,14,18,12,0,75,39
+A39,propaganda_information_control,Propaganda and information control,provisional_inferred,42,958,0,33,26,24,20,0,75,33
+A37,women_wartime_labor,Women’s wartime labor,provisional_inferred,48,952,0,48,34,47,33,0,75,27
+A21,mobilization_industry,Mobilization of industry for war production,user_supplied,56,944,0,54,37,26,22,0,75,19
+A12,allied_coalition_diplomacy,"Allied coalition diplomacy (Tehran, Yalta)",user_supplied,61,939,0,41,26,18,14,0,75,14

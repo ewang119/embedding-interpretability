@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+data/backups/
+data/workbook_data.json

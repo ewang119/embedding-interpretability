@@ -1,0 +1,36 @@
+{
+  "url": "https://www.nps.gov/articles/000/learning-from-women-in-aviation.htm",
+  "title": "Learning from Women in Aviation",
+  "paragraphs": [
+    "This Curiosity Kit Educational Resource was created by Katie McCarthy, a NCPE intern with the Cultural Resources Office of Interpretation and Education.",
+    "During the early 1900s, the possibility of human flight captivated the world. Wilbur and Orville Wright were the first to developed a successful airplane in 1903. In the earliest days of aviation, both men and women sought to learn to fly. However, women faced many more barriers in earning a pilot’s license. Many flight schools refused to teach women, and some men didn’t think women were strong or smart enough to become pilots. Black, Brown, and Indigenous women faced additional discrimination. Some women went to Europe to earn their license because they could not get teachers in the United States. Despite these barriers, women across the country started careers as pilots and aviators. You can learn more about early aviation and female aviators by exploring the Travel Sites of American Aviation website and the Places of Women in Aviation .",
+    "Why were people, especially women, interested in learning how to fly in the early 1900s? What do you think is interesting about flying today?",
+    "From Amelia Earhart to Leah Hing to the female pilots connected to the Tuskegee Airmen , women learned to fly and taught others to do so in the early 1900s. From these early days to the Space Age, women have fought to be included in all professions related to aviation. You can find a select list of female aviation pioneers on the National Air and Space Museum’s website. Using this list as a starting point, research the life of a female aviator. You may also choose to research a woman who is not on this list. As you do so, consider the following questions:",
+    "When did this woman live? What were airplanes and aviation like during that period? How did they change during her lifetime?",
+    "How did this woman become interested in aviation? What motivated her during her career?",
+    "Where did she get her flight training? Did she have any particular friends or mentors who helped her?",
+    "During World War II, women across the United States sought to support their country. They did so in many different ways including victory gardens, taking on jobs in factories, and joining military auxiliaries like the Women’s Army Corps. Some women joined the Women Airforce Service Pilots (WASP). Women who joined the WASP tested planes and ferried them in between bases. They towed targets during gunnery practice and served as mechanics. Women in the WASP served on hundreds of airfields across the United States, including Floyd Bennett Field in New York and Kelly Air Force Base in Texas. Despite their service, WASPs weren’t recognized as part of the military until decades after WWII. You can learn more about the WASP by reading articles from the Army , the National WASP WWII Museum , and by visiting the Rosie the Riveter WWII Homefront National Historic Park (in person, or digitally). Teaching with Historic Places also has an ( H)our History lesson plan that focuses on the WASPs at Floyd Bennet Field.",
+    "One of the best ways we can learn about the experiences of women who joined the WASP is through their own words. In this activity you will choose one or more oral histories to read through. As you do so, consider the questions below. You can find WASP oral histories in digital collections provided by the UNC Greensboro Women Veterans Historical Project , the Texas Woman’s University’s Women Airforce Service Pilot Digital Archive , the NASA Headquarters Oral History Project , and the Library of Congress Veterans History Project .",
+    "What kind of work was she doing before she joined the WASP?",
+    "What was her experience with other women in the WASP and/or military men where she was stationed?",
+    "During WWI, WWII, and the Cold War, the United States Army and Air Force built airfields across the country. Cities and towns built municipal airports, and some private civilians and civilian organizations built airstrips and airfields as well. You can see some of these airfields by exploring the Travel Sites of American Aviation website . Because of the proliferation of airfields, most communities have one nearby. Pick one of the airfields in your area to research. As you do, consider the following questions:",
+    "Do you think the experience of a female aviator at this field would have been different from that of a male aviator?",
+    "What types of people work or worked there? What types of people used or flew airplanes there?",
+    "If you wanted to learn to fly, could you learn at this airfield? If not, where could you learn?",
+    "Part of a series of articles titled Curiosity Kit: American Aviation History ."
+  ],
+  "links": [
+    "https://www.nps.gov/articles/000/-h-our-history-lesson-the-world-war-ii-navy-women-of-floyd-bennett-field.htm",
+    "https://www.nps.gov/articles/000/learning-from-black-aviation-pioneers.htm",
+    "https://www.nps.gov/articles/000/places-of-women-in-aviation.htm",
+    "https://www.nps.gov/articles/amelia-earhart-birthplace.htm",
+    "https://www.nps.gov/articles/kelly-field-historic-district.htm",
+    "https://www.nps.gov/articles/series.htm",
+    "https://www.nps.gov/gate/learn/historyculture/floyd-bennett-field.htm",
+    "https://www.nps.gov/people/leahhing.htm"
+  ],
+  "sha256": "897286d17e197e92b237fc5a1cf650203c8c59cef18659c7bdf0863b36744fd9",
+  "retrieved_utc": "2026-11-17T16:37:53Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

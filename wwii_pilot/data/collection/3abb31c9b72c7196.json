@@ -1,0 +1,43 @@
+{
+  "url": "https://www.nps.gov/articles/000/women-in-the-military-during-world-war-ii.htm",
+  "title": "Women in the Military During World War II",
+  "paragraphs": [
+    "More than 350,000 American women joined the United States Armed Forces during World War II . Women had been serving as Army and Navy nurses for decades, but World War II led to new opportunities for women to enlist in the Army, Navy, Marine Corps, and Coast Guard.",
+    "In 1942, Congress created the Women’s Army Auxiliary Corps (later renamed the Women's Army Corps, or WAC ), the Women Accepted for Volunteer Emergency Service ( WAVES , part of the US Navy), and the Marine Corps Women’s Reserve . The Coast Guard established a women’s unit known as the SPARS , short for the Marine Corps motto “Semper Paratus, Always Ready.” Women aviators flew with the Women Airforce Service Pilots (WASP) unit beginning in 1943.",
+    "Women in uniform performed more than 200 different jobs during their service. They were clerks, mechanics, pilots, drivers, gunnery instructors, air traffic controllers, weather forecasters, postal workers, and translators. They served at home and abroad. Many of them risked their lives and safety. Four hundred and thirty-two servicewomen died. Eighty-eight were taken prisoner.",
+    "Many servicewomen received recognition and respect during the war, but they also faced gender discrimination from the public and male colleagues. Women of color confronted a double burden of racism and sexism.",
+    "After the war, the military discharged most women in uniform and disbanded some of their specialized units. But the demands of a world war had created a future for American women in the armed forces. In 1948, Congress passed the Women’s Armed Services Integration Act, which granted women the right to serve as regular members of the military for the first time.",
+    "Explore some of the stories of World War II women in uniform.",
+    "Women joined the US Marines for the first time during World War II as members of the Marine Corps Women's Reserve.",
+    "As members of the SPARS, Coast Guard women served as officers, seamen, yeomen, drivers, radio operators, and much more.",
+    "Female pilots served their country during WWII as members of the WASP.",
+    "The Women's Army Corps (WAC) was the largest of the women's branches during WWII, with 150,000 members.",
+    "The US Naval Reserves opened to \"Women Accepted for Volunteer Emergency Service\" (WAVES) in 1942.",
+    "Nurses joined the war effort as members of the Army Nurse Corps, Navy Nurse Corps, and Cadet Nurse Corps during WWII.",
+    "Aviator Jacqueline Cochran headed the WASP during WWII. A prominent racing pilot, she was the first woman to break the sound barrier.",
+    "Charity Adams Earley commanded the 6888th Central Postal Directory Battalion, the only mostly-Black women's unit to go overseas in WWII.",
+    "Filipina American Florence Finch served in the Coast Guard SPARS during WWII and was decorated for her service to the Philippine resistance.",
+    "Dr. Olivia J. Hooker, a survivor of the Tulsa race massacre, blazed a trail as the first Black woman on active duty in the US Coast Guard.",
+    "Did you know that the Tuskegee Airmen included women? Sgt. Amelia Jones was honored in 2014 for her service with the 99th Pursuit Squadron.",
+    "Aviator Nancy Harkness Love was one of the leaders of the Women's Airforce Service Pilots (WASP)."
+  ],
+  "links": [
+    "https://www.nps.gov/articles/000/florence-finch.htm",
+    "https://www.nps.gov/articles/000/military-nurses-during-world-war-ii.htm",
+    "https://www.nps.gov/articles/000/united-states-coast-guard-women-s-reserve-spars.htm",
+    "https://www.nps.gov/articles/000/united-states-marine-corps-women-s-reserve.htm",
+    "https://www.nps.gov/articles/000/waves-united-states-naval-women-s-reserve.htm",
+    "https://www.nps.gov/articles/000/women-airforce-service-pilots-wasp.htm",
+    "https://www.nps.gov/articles/000/women-in-world-war-ii.htm",
+    "https://www.nps.gov/articles/000/women-s-army-corps-wac.htm",
+    "https://www.nps.gov/articles/tuskegee-airwoman-amelia-jones.htm",
+    "https://www.nps.gov/gate/learn/historyculture/jacqueline-cochran.htm",
+    "https://www.nps.gov/kewe/learn/a-migrant-story-nancy-harkness-love.htm",
+    "https://www.nps.gov/people/charityadams.htm",
+    "https://www.nps.gov/people/olivia-hooker.htm"
+  ],
+  "sha256": "47f2e93384032e8ef3e1fb117bccc9623bd52702ee51d3c1901f146f99ea7707",
+  "retrieved_utc": "2026-11-17T16:37:04Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

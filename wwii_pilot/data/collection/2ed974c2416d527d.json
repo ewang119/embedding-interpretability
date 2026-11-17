@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nps.gov/articles/000/military-nurses-during-world-war-ii.htm",
+  "title": "Military Nurses During World War II",
+  "paragraphs": [
+    "Tens of thousands of American women served as military nurses during World War II . As members of the Army Nurse Corps , Navy Nurse Corps, and Cadet Nurse Corps , they cared for patients in Europe, the Pacific, and on the home front. Many of them risked their lives. When the Japanese Army occupied the Philippines, it captured 99 military nurses and held them as prisoners of war for three years. At the same time, nurses of color and their advocates, like Mabel Keaton Staupers , demanded an equal chance to practice their profession and serve their country. Explore some of the stories of World War II military nurses on this page.",
+    "About 60,000 women served in the Army Nurse Corps during World War II.",
+    "When the Japanese Army captured the Philippines in 1942, 99 nurses became prisoners of war. They treated patients in captivity for 3 years.",
+    "During World War II, more than 100,000 American women served their country as members of the United States Cadet Nurse Corps.",
+    "This lesson plan introduces learners to the Cadet Nurse Corps, which averted a shortage of nurses on the American WWII home front.",
+    "Mabel Keaton Staupers fought for the integration of Black nurses through World War II.",
+    "This page collects several historic places associated with Mabel Keaton Staupers, tireless advocate for Black nurses."
+  ],
+  "links": [
+    "https://www.nps.gov/articles/000/-h-our-history-lesson-the-cadet-nurse-corps-and-the-wwii-home-front.htm",
+    "https://www.nps.gov/articles/000/cadet-nurse-corps.htm",
+    "https://www.nps.gov/articles/000/learning-from-mabel-keaton-staupers.htm",
+    "https://www.nps.gov/articles/000/places-of-mabel-keaton-staupers.htm",
+    "https://www.nps.gov/articles/armynursecorps.htm",
+    "https://www.nps.gov/articles/philippinesmilitarynurses.htm"
+  ],
+  "sha256": "ade2b392f2ac5e5f14966cad55d020ba647735e51a09c61dc56680f0dcc6df96",
+  "retrieved_utc": "2026-11-17T16:37:53Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

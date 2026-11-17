@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hut_8",
+  "title": "Hut 8",
+  "paragraphs": [
+    "Hut 8 was a section in the Government Code and Cypher School (GC&CS) at Bletchley Park (the British World War II codebreaking station, located in Buckinghamshire ) tasked with solving German naval ( Kriegsmarine ) Enigma messages. The section was led initially by Alan Turing . He was succeeded in November 1942 by his deputy, Hugh Alexander . Patrick Mahon succeeded Alexander in September 1944.",
+    "Hut 8 was partnered with Hut 4 , which handled the translation and intelligence analysis of the raw decrypts provided by Hut 8.",
+    "Located initially in one of the original single-story wooden huts, the name \"Hut 8\" was retained when Huts 3, 6 & 8 moved to a new brick building, Block D, in February 1943.",
+    "After 2005, the first Hut 8 was restored to its wartime condition, and it now houses the \" HMS Petard Exhibition\".",
+    "In 1940, a few breaks were made into the naval \"Dolphin\" code, but Luftwaffe messages were the first to be read in quantity. The German navy had much tighter procedures, and the capture of code books was needed (see Battle of the Atlantic § Enigma cipher ) before they could be broken. In February 1942, the German navy introduced \"Triton\", a version of Enigma with a fourth rotor for messages to and from Atlantic U-boats; these became unreadable for a period of ten months during a crucial period (see Enigma in 1942 ).",
+    "Britain produced modified bombes , but it was the success of the US Navy bombe that was the main source of reading messages from this version of Enigma for the rest of the war. [ citation needed ] Messages were sent to and from across the Atlantic by enciphered teleprinter links.",
+    "In addition to the cryptanalysts , around 130 women worked in Hut 8 and provided essential clerical support including punching holes into the Banbury sheets . Hut 8 relied on Wrens to run the bombes housed elsewhere at Bletchley."
+  ],
+  "sections": [
+    "Contents",
+    "Contents",
+    "Contents",
+    "Contents",
+    "Operation",
+    "Operation",
+    "Personnel"
+  ],
+  "links": [],
+  "sha256": "ef7fa96cf0a254b110ff317b683b54595dda6645dd171e1a09ab88bf1871c69c",
+  "retrieved_utc": "2026-11-17T17:08:18Z",
+  "http_status": 200,
+  "source_license": "CC BY-SA 4.0",
+  "attribution": "Wikipedia contributors, Hut 8",
+  "revision_id": "1379606589",
+  "extraction_note": "Paragraph text only; citation markers removed; whitespace normalized; tables, captions, quotes excluded."
+}

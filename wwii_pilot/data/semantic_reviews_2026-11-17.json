@@ -1,0 +1,2707 @@
+{
+  "a01_01": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_02": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_03": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_04": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_05": {
+    "positive_anchor_numbers": [
+      1,
+      21
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_06": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_07": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_08": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_09": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_10": {
+    "positive_anchor_numbers": [
+      1
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_11": {
+    "positive_anchor_numbers": [
+      1,
+      12,
+      22
+    ],
+    "note": "Lend-Lease trucks explicitly expand Red Army operational reach: attrition/logistics, allied aid, and Allied cooperation overlap."
+  },
+  "a01_12": {
+    "positive_anchor_numbers": [
+      1,
+      25
+    ],
+    "note": "Fuel shortages explicitly halt panzer formations; label fuel constraints as well as Eastern Front logistics."
+  },
+  "a01_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a01_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_01": {
+    "positive_anchor_numbers": [
+      1,
+      2
+    ],
+    "note": "Long siege and starvation mortality give both siege warfare and an attritional effect."
+  },
+  "a02_02": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_03": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_04": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_05": {
+    "positive_anchor_numbers": [
+      2,
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_06": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_07": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_08": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_09": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_10": {
+    "positive_anchor_numbers": [
+      1,
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_11": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_12": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a02_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_01": {
+    "positive_anchor_numbers": [
+      3,
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_02": {
+    "positive_anchor_numbers": [
+      3,
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_03": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_04": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_05": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_06": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_07": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_08": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_09": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_10": {
+    "positive_anchor_numbers": [
+      3
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_11": {
+    "positive_anchor_numbers": [
+      3,
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_12": {
+    "positive_anchor_numbers": [
+      3,
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a03_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_01": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_02": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_03": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_04": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_05": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_06": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_07": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_08": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_09": {
+    "positive_anchor_numbers": [
+      4,
+      31
+    ],
+    "note": "Decrypted Enigma traffic is explicit. Radar is one item in a longer technology list, so it is not separately a substantial radar focus."
+  },
+  "a04_10": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_11": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_12": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a04_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_01": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_02": {
+    "positive_anchor_numbers": [
+      5,
+      38
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_03": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_04": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Bombing civilian morale is a targeting doctrine, not itself propaganda or information control."
+  },
+  "a05_05": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_06": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_07": {
+    "positive_anchor_numbers": [
+      5,
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_08": {
+    "positive_anchor_numbers": [
+      5,
+      38
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_09": {
+    "positive_anchor_numbers": [
+      5,
+      25
+    ],
+    "note": "Provisional overlap: raids on synthetic-fuel plants are tied to reduced Wehrmacht/Luftwaffe mobility. Review whether the operational fuel-constraint focus is substantial enough."
+  },
+  "a05_10": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_11": {
+    "positive_anchor_numbers": [
+      5,
+      38
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_12": {
+    "positive_anchor_numbers": [
+      5,
+      21
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a05_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_01": {
+    "positive_anchor_numbers": [
+      6
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_02": {
+    "positive_anchor_numbers": [
+      6,
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_03": {
+    "positive_anchor_numbers": [
+      6
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_04": {
+    "positive_anchor_numbers": [
+      6,
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_05": {
+    "positive_anchor_numbers": [
+      6,
+      32
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_06": {
+    "positive_anchor_numbers": [
+      6,
+      12,
+      17
+    ],
+    "note": "French Resistance sabotage supports the invasion and BBC coordination; coded signals are not codebreaking."
+  },
+  "a06_07": {
+    "positive_anchor_numbers": [
+      6
+    ],
+    "note": "The passage never attributes reserve control to Hitler; no Hitler-command positive inferred from the collection heading."
+  },
+  "a06_08": {
+    "positive_anchor_numbers": [
+      6
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_09": {
+    "positive_anchor_numbers": [
+      6
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_10": {
+    "positive_anchor_numbers": [
+      6,
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_11": {
+    "positive_anchor_numbers": [
+      6
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_12": {
+    "positive_anchor_numbers": [
+      6
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a06_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_01": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_02": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_03": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_04": {
+    "positive_anchor_numbers": [],
+    "note": "Peace Ballot/public preference for peace does not itself describe concessions to Germany. The original appeasement positive needs review."
+  },
+  "a07_05": {
+    "positive_anchor_numbers": [],
+    "note": "Hossbach describes Hitler’s expansion aims, without an Allied appeasement response or overriding of commanders."
+  },
+  "a07_06": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_07": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_08": {
+    "positive_anchor_numbers": [],
+    "note": "Eden’s resignation here concerns talks with Mussolini, without a substantive Germany-appeasement link."
+  },
+  "a07_09": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_10": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_11": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_12": {
+    "positive_anchor_numbers": [
+      7
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a07_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_01": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_02": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_03": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_04": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_05": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_06": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_07": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_08": {
+    "positive_anchor_numbers": [
+      7,
+      8
+    ],
+    "note": "The Munich declaration and peace assurance directly express the diplomatic-concession rationale, supporting both Munich and appeasement."
+  },
+  "a08_09": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_10": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_11": {
+    "positive_anchor_numbers": [
+      7,
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_12": {
+    "positive_anchor_numbers": [
+      8
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a08_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_01": {
+    "positive_anchor_numbers": [
+      9
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_02": {
+    "positive_anchor_numbers": [
+      9
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_03": {
+    "positive_anchor_numbers": [
+      9,
+      12
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_04": {
+    "positive_anchor_numbers": [
+      9
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_05": {
+    "positive_anchor_numbers": [
+      9,
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_06": {
+    "positive_anchor_numbers": [],
+    "note": "Baltic annexation is described without connecting it to the Nazi-Soviet Pact; the supplied definition requires that connection."
+  },
+  "a09_07": {
+    "positive_anchor_numbers": [],
+    "note": "The Winter War is described without a Pact link; do not infer that link from the original topic bucket."
+  },
+  "a09_08": {
+    "positive_anchor_numbers": [],
+    "note": "League expulsion and Red Army weakness do not establish a Pact link or a Stalin-purge cause."
+  },
+  "a09_09": {
+    "positive_anchor_numbers": [
+      9
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_10": {
+    "positive_anchor_numbers": [
+      9
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_11": {
+    "positive_anchor_numbers": [
+      9
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_12": {
+    "positive_anchor_numbers": [],
+    "note": "Provisional temporal judgment: this is the 1989 legal reckoning, outside the wartime fallout scope. Review whether the team wants later Pact memory included."
+  },
+  "a09_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a09_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_01": {
+    "positive_anchor_numbers": [
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_02": {
+    "positive_anchor_numbers": [
+      10,
+      39
+    ],
+    "note": "The quarantine speech is both neutrality policy and public persuasion. Propaganda definition is provisional."
+  },
+  "a10_03": {
+    "positive_anchor_numbers": [
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_04": {
+    "positive_anchor_numbers": [
+      10,
+      39
+    ],
+    "note": "The campaign assurance is marked as public wartime messaging under the provisional information-control definition; review this broad boundary."
+  },
+  "a10_05": {
+    "positive_anchor_numbers": [
+      10,
+      12
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_06": {
+    "positive_anchor_numbers": [
+      10,
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_07": {
+    "positive_anchor_numbers": [
+      10,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_08": {
+    "positive_anchor_numbers": [
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_09": {
+    "positive_anchor_numbers": [
+      4,
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_10": {
+    "positive_anchor_numbers": [
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_11": {
+    "positive_anchor_numbers": [
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_12": {
+    "positive_anchor_numbers": [
+      10,
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a10_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_01": {
+    "positive_anchor_numbers": [
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_02": {
+    "positive_anchor_numbers": [
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_03": {
+    "positive_anchor_numbers": [
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_04": {
+    "positive_anchor_numbers": [
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_05": {
+    "positive_anchor_numbers": [
+      11,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_06": {
+    "positive_anchor_numbers": [],
+    "note": "Japanese domestic assassinations/coup are described, without an explicit imperial-expansion or overseas-war link."
+  },
+  "a11_07": {
+    "positive_anchor_numbers": [
+      11,
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_08": {
+    "positive_anchor_numbers": [
+      11,
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_09": {
+    "positive_anchor_numbers": [],
+    "note": "The Tripartite Pact concerns Axis deterrence and mutual assistance; this text does not describe Japan’s imperial expansion. Review the intended road-to-war scope."
+  },
+  "a11_10": {
+    "positive_anchor_numbers": [
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_11": {
+    "positive_anchor_numbers": [
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_12": {
+    "positive_anchor_numbers": [
+      11
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a11_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_01": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_02": {
+    "positive_anchor_numbers": [
+      12
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_03": {
+    "positive_anchor_numbers": [
+      12
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_04": {
+    "positive_anchor_numbers": [
+      12
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_05": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_06": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Cairo’s territorial restoration terms concern the postwar settlement; no military-command coordination is described."
+  },
+  "a12_07": {
+    "positive_anchor_numbers": [
+      6,
+      12
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_08": {
+    "positive_anchor_numbers": [
+      12,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_09": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "The percentages agreement concerns spheres of influence, so the specific postwar-settlement anchor applies."
+  },
+  "a12_10": {
+    "positive_anchor_numbers": [
+      12,
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_11": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Free elections in liberated Europe and disagreement over postwar Poland concern settlement, not operational command."
+  },
+  "a12_12": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "The Four Policemen proposal concerns postwar order; distinguish it from coordinating wartime operations."
+  },
+  "a12_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a12_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_01": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_02": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_03": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_04": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_05": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_06": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_07": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_08": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_09": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_10": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_11": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_12": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a13_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_01": {
+    "positive_anchor_numbers": [
+      14,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_02": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_03": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_04": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_05": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_06": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_07": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Evian is a Jewish-refugee conference, but the passage does not identify the refugees; retain a context-quality flag for review."
+  },
+  "a14_08": {
+    "positive_anchor_numbers": [
+      14,
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_09": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_10": {
+    "positive_anchor_numbers": [
+      14,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_11": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_12": {
+    "positive_anchor_numbers": [
+      14,
+      39
+    ],
+    "note": "The prewar-persecution definition expressly includes Ford and the second KKK despite dates preceding 1933."
+  },
+  "a14_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a14_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_01": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_02": {
+    "positive_anchor_numbers": [
+      15,
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_03": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_04": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_05": {
+    "positive_anchor_numbers": [
+      15,
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_06": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_07": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Forced labor occurs in a list of camp mortality causes; it is not a substantial description of the labor system."
+  },
+  "a15_08": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_09": {
+    "positive_anchor_numbers": [
+      15,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_10": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "The main focus is deportation to Auschwitz. Hungarian cooperation is mentioned, but a separate collaboration positive is not assumed."
+  },
+  "a15_11": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_12": {
+    "positive_anchor_numbers": [
+      15
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a15_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_01": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_02": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_03": {
+    "positive_anchor_numbers": [
+      15,
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_04": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_05": {
+    "positive_anchor_numbers": [
+      15,
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_06": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Resistance is background to a reprisal, not a substantial account of resistance operations."
+  },
+  "a16_07": {
+    "positive_anchor_numbers": [
+      16,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_08": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_09": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_10": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_11": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "The comfort-women system qualifies as occupation policy. No women’s industrial/auxiliary labor label is assigned solely because women are victims."
+  },
+  "a16_12": {
+    "positive_anchor_numbers": [
+      16
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a16_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_01": {
+    "positive_anchor_numbers": [
+      16,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_02": {
+    "positive_anchor_numbers": [
+      12,
+      17,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_03": {
+    "positive_anchor_numbers": [
+      15,
+      16,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_04": {
+    "positive_anchor_numbers": [
+      12,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_05": {
+    "positive_anchor_numbers": [
+      6,
+      17,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_06": {
+    "positive_anchor_numbers": [
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_07": {
+    "positive_anchor_numbers": [
+      15,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_08": {
+    "positive_anchor_numbers": [
+      16,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_09": {
+    "positive_anchor_numbers": [
+      12,
+      17,
+      31
+    ],
+    "note": "The supplied resistance definition explicitly includes Polish pilots and codebreakers; the second sentence also substantially concerns codebreaking and shared Allied intelligence."
+  },
+  "a17_10": {
+    "positive_anchor_numbers": [
+      16,
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_11": {
+    "positive_anchor_numbers": [
+      17
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_12": {
+    "positive_anchor_numbers": [
+      17
+    ],
+    "note": "Heavy-water sabotage is resistance; the text does not explain an atomic-weapons-development purpose."
+  },
+  "a17_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a17_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_01": {
+    "positive_anchor_numbers": [
+      1,
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_02": {
+    "positive_anchor_numbers": [
+      1,
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_03": {
+    "positive_anchor_numbers": [
+      15,
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_04": {
+    "positive_anchor_numbers": [
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_05": {
+    "positive_anchor_numbers": [
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_06": {
+    "positive_anchor_numbers": [
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_07": {
+    "positive_anchor_numbers": [
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_08": {
+    "positive_anchor_numbers": [
+      18,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_09": {
+    "positive_anchor_numbers": [
+      18,
+      39
+    ],
+    "note": "The Soviet attribution of Katyn to Germany is explicit government disinformation as well as POW treatment; information-control scope is provisional."
+  },
+  "a18_10": {
+    "positive_anchor_numbers": [
+      18,
+      20
+    ],
+    "note": "The passage includes courts-martial for killing surrendered prisoners: POW treatment and legal prosecution both apply."
+  },
+  "a18_11": {
+    "positive_anchor_numbers": [
+      18
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_12": {
+    "positive_anchor_numbers": [
+      18,
+      30
+    ],
+    "note": "The supplied definitions expressly include Yakov’s captivity/exchange under both POW treatment and Stalin’s treatment of his own army."
+  },
+  "a18_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a18_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_01": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_02": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_03": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_04": {
+    "positive_anchor_numbers": [
+      17,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_05": {
+    "positive_anchor_numbers": [
+      15,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_06": {
+    "positive_anchor_numbers": [
+      15,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_07": {
+    "positive_anchor_numbers": [
+      15,
+      19,
+      35
+    ],
+    "note": "Mittelbau-Dora is camp forced labor explicitly producing V-2 rockets; all three concepts are substantial."
+  },
+  "a19_08": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_09": {
+    "positive_anchor_numbers": [
+      18,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_10": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_11": {
+    "positive_anchor_numbers": [
+      18,
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_12": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a19_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_01": {
+    "positive_anchor_numbers": [
+      13,
+      20
+    ],
+    "note": "The London Charter establishes an Allied postwar legal institution; provisional overlap between settlement planning and prosecution."
+  },
+  "a20_02": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_03": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_04": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_05": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_06": {
+    "positive_anchor_numbers": [
+      15,
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_07": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Slave labor and plunder are named as charges, not explained as economic systems; prosecution only."
+  },
+  "a20_08": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_09": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_10": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_11": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_12": {
+    "positive_anchor_numbers": [
+      20
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a20_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_01": {
+    "positive_anchor_numbers": [
+      21
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_02": {
+    "positive_anchor_numbers": [
+      21
+    ],
+    "note": "Chrysler’s conversion/staff expansion and ammunition output are substantial mobilization; aircraft parts are mentioned without an aircraft-output focus."
+  },
+  "a21_03": {
+    "positive_anchor_numbers": [
+      5,
+      21
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_04": {
+    "positive_anchor_numbers": [
+      5,
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_05": {
+    "positive_anchor_numbers": [
+      21
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_06": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_07": {
+    "positive_anchor_numbers": [
+      12,
+      21
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_08": {
+    "positive_anchor_numbers": [
+      1,
+      21,
+      26
+    ],
+    "note": "German aircraft and Soviet artillery production quantify industrial output and Eastern Front replacement capacity."
+  },
+  "a21_09": {
+    "positive_anchor_numbers": [
+      21
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_10": {
+    "positive_anchor_numbers": [
+      12,
+      21,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_11": {
+    "positive_anchor_numbers": [
+      21,
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_12": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_13": {
+    "positive_anchor_numbers": [
+      34
+    ],
+    "note": "Radar/sonar innovation is described; Enigma encryption alone does not establish codebreaking. This provisional radar label needs review."
+  },
+  "a21_14": {
+    "positive_anchor_numbers": [
+      36
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a21_15": {
+    "positive_anchor_numbers": [
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_01": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_02": {
+    "positive_anchor_numbers": [
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_03": {
+    "positive_anchor_numbers": [
+      21
+    ],
+    "note": "The text names Britain but not the sender or Lend-Lease program. War-production inputs qualify; a Lend-Lease positive requires added context or replacement."
+  },
+  "a22_04": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_05": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_06": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_07": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_08": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_09": {
+    "positive_anchor_numbers": [
+      12,
+      22,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_10": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_11": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Allied aid tonnage to the USSR fits Lend-Lease provisionally, but the program is not named in this excerpt. Verify against its original source."
+  },
+  "a22_12": {
+    "positive_anchor_numbers": [
+      12,
+      22
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_13": {
+    "positive_anchor_numbers": [
+      10
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_14": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a22_15": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_01": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_02": {
+    "positive_anchor_numbers": [
+      23,
+      25
+    ],
+    "note": "Blockade effects explicitly include immobilized fleet/air units and impaired training; fuel constraints overlap."
+  },
+  "a23_03": {
+    "positive_anchor_numbers": [
+      5,
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_04": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_05": {
+    "positive_anchor_numbers": [
+      11,
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_06": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_07": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_08": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_09": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_10": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_11": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_12": {
+    "positive_anchor_numbers": [
+      23
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_13": {
+    "positive_anchor_numbers": [
+      36
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_14": {
+    "positive_anchor_numbers": [
+      4
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a23_15": {
+    "positive_anchor_numbers": [
+      13,
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_01": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_02": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_03": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_04": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_05": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_06": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_07": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_08": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_09": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_10": {
+    "positive_anchor_numbers": [
+      21,
+      24,
+      26
+    ],
+    "note": "Southern-field oil movements support occupied-economy exploitation provisionally; tanker-construction quantities also support output and mobilization. Verify the missing geographical context."
+  },
+  "a24_11": {
+    "positive_anchor_numbers": [
+      21,
+      23,
+      24
+    ],
+    "note": "Provisional overlap: imported oil-flow failure, synthetic-industry response, and southern-field extraction. The occupation link needs clearer context."
+  },
+  "a24_12": {
+    "positive_anchor_numbers": [
+      24
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_13": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_14": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a24_15": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_01": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_02": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_03": {
+    "positive_anchor_numbers": [
+      25,
+      29
+    ],
+    "note": "Eisenhower’s allocation of gasoline among armies is command coordination as well as a fuel constraint; review whether the team requires explicit multinational actors."
+  },
+  "a25_04": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_05": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_06": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_07": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_08": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "The quoted speaker, fleet nationality, and year are unstated; retain a context-quality flag despite the clear fuel-constraint meaning."
+  },
+  "a25_09": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_10": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Question/answer format clearly concerns operational/training fuel shortages, but needs speaker/date context for final sourcing."
+  },
+  "a25_11": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_12": {
+    "positive_anchor_numbers": [
+      25
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_13": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_14": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a25_15": {
+    "positive_anchor_numbers": [
+      5
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_01": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_02": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_03": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_04": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_05": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_06": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_07": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_08": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_09": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_10": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_11": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_12": {
+    "positive_anchor_numbers": [
+      21,
+      26
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_13": {
+    "positive_anchor_numbers": [
+      34
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a26_14": {
+    "positive_anchor_numbers": [],
+    "note": "A tactical naval air attack is neither aircraft output nor sustained strategic bombing. All-zero labels are intentional."
+  },
+  "a26_15": {
+    "positive_anchor_numbers": [
+      34
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_01": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_02": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_03": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_04": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_05": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_06": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_07": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_08": {
+    "positive_anchor_numbers": [
+      27
+    ],
+    "note": "Provisional Churchill positive: speech-recording history, rather than a clear account of wartime morale effects. Consider replacement."
+  },
+  "a27_09": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_10": {
+    "positive_anchor_numbers": [],
+    "note": "A general biography and premiership dates do not substantially explain rhetoric or morale; the previous positive is not carried forward."
+  },
+  "a27_11": {
+    "positive_anchor_numbers": [
+      27,
+      39
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_12": {
+    "positive_anchor_numbers": [
+      27,
+      37
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_13": {
+    "positive_anchor_numbers": [
+      2
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_14": {
+    "positive_anchor_numbers": [
+      38
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a27_15": {
+    "positive_anchor_numbers": [
+      34
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_01": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_02": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_03": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "A passage can discuss Hitler’s command role while disputing the claim that he originated the halt; positive does not mean blaming him."
+  },
+  "a28_04": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_05": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_06": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_07": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_08": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_09": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_10": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_11": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Provisional command-interference positive: Hitler rejects his generals’ assessment and remains in Berlin. Review whether this is too biographical."
+  },
+  "a28_12": {
+    "positive_anchor_numbers": [
+      28
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_14": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a28_15": {
+    "positive_anchor_numbers": [
+      14
+    ],
+    "note": "Nazi policing/persecution is not Hitler overriding military commanders. The prewar-persecution timing follows its source context and needs confirmation."
+  },
+  "a29_01": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_02": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_03": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_04": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_05": {
+    "positive_anchor_numbers": [
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_06": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_07": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_08": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_09": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_10": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_11": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_12": {
+    "positive_anchor_numbers": [
+      12,
+      29
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_13": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_14": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a29_15": {
+    "positive_anchor_numbers": [
+      13
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_01": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_02": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_03": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_04": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_05": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Contemporary diplomatic interpretation of Soviet military treason allegations, not an established finding of guilt."
+  },
+  "a30_06": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Contemporary diplomatic assessment of the effect on Red Army efficiency and morale; keep attribution."
+  },
+  "a30_07": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_08": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_09": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_10": {
+    "positive_anchor_numbers": [
+      30
+    ],
+    "note": "Khrushchev’s retrospective political accusation, retained as attributed material rather than a neutral finding."
+  },
+  "a30_11": {
+    "positive_anchor_numbers": [
+      1,
+      2,
+      30
+    ],
+    "note": "Khrushchev attributes mass losses in an encirclement to Stalin’s decisions; the text supports attrition, encirclement, and Stalin-command concepts."
+  },
+  "a30_12": {
+    "positive_anchor_numbers": [
+      1,
+      30
+    ],
+    "note": "Khrushchev explicitly connects Stalin’s frontal-attack orders to bloodshed; both leadership and Eastern Front attrition apply."
+  },
+  "a30_13": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_14": {
+    "positive_anchor_numbers": [
+      19
+    ],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  },
+  "a30_15": {
+    "positive_anchor_numbers": [],
+    "note": "Assistant semantic review against all 40 definitions. Positives require substantive coverage; all remaining anchors were judged negative in this AI draft."
+  }
+}
