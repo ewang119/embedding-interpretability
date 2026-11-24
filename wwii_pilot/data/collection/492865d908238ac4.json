@@ -1,0 +1,21 @@
+{
+  "url": "https://www.nps.gov/articles/000/waves-united-states-naval-women-s-reserve.htm",
+  "title": "WAVES (United States Naval Women's Reserve)",
+  "paragraphs": [
+    "During World War II , the United States Navy created a branch of the Naval Reserve to enlist women, known as the WAVES (an acronym for Women Accepted for Volunteer Emergency Service). Approximately 100,000 women served in the WAVES over the course of the war. They performed a variety of jobs, from clerical work and storekeeping, to weather forecasting and navigation, to hospital work, to engineering. After the end of the war, the WAVES demobilized. However, the 1948 Women's Armed Services Integration Act permitted women to serve in the Army and Navy on a permanent, regular basis. This page collects information about the parks, historic places, people, and stories connected to the history of the WAVES.",
+    "Dr. Margaret \"Mom\" Chung, the first Chinese American woman to become a physician, was essential to the creation of the Navy WAVES program.",
+    "Navy pilots, including WAVES, trained at sites within the boundaries of what is now Canaveral National Seashore.",
+    "This lesson explores the WWII effort through the experiences of 3 women who served in the WAVES at Floyd Bennett Field in Brooklyn, NY.",
+    "This lesson plan investigates the history of Floyd Bennett Field, the home of naval aviation in Brooklyn, NY during WWII."
+  ],
+  "links": [
+    "https://www.nps.gov/articles/000/-h-our-history-lesson-the-world-war-ii-navy-women-of-floyd-bennett-field.htm",
+    "https://www.nps.gov/articles/000/waves.htm",
+    "https://www.nps.gov/articles/floyd-bennett-field-naval-aviation-s-home-in-brooklyn-teaching-with-historic-places.htm",
+    "https://www.nps.gov/people/dr-margaret-mom-chung.htm"
+  ],
+  "sha256": "82345311ae5b2f578d08ff8b68a620a0bc1a7e79c9d8ee8170e17ba51a703b84",
+  "retrieved_utc": "2026-11-17T16:37:54Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

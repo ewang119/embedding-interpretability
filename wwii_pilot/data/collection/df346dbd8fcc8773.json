@@ -1,0 +1,15 @@
+{
+  "url": "https://www.nps.gov/people/manhattan-project-scientists-glenn-theodore-seaborg.htm",
+  "title": "Manhattan Project Scientists: Glenn Theodore Seaborg",
+  "paragraphs": [
+    "Born in Michigan in 1912, Glenn Seaborg received his BA in chemistry from UCLA in 1933 and his PhD in chemistry from the University of California, Berkeley in 1937. In 1941, Seaborg and colleague Edwin McMillan bombarded uranium with deuterons, producing a new element, plutonium 239. Later that same year, Seaborg and colleagues demonstrated that plutonium was fissile, greatly influencing the Manhattan Project’s atomic bomb development. Seaborg’s contributions ultimately led to the fuel for Fat Man, the atomic bomb dropped on Nagasaki, Japan on August 9, 1945. In 1942, Seaborg joined the staff at the University of Chicago’s Metallurgical Laboratory, refining how to extract plutonium from uranium. His research at the Met Lab influenced the construction of the X-10 Graphite Reactor in Oak Ridge in 1943 and the plutonium production facilities at Hanford in 1944. After the war, Seaborg received the Nobel Prize in Chemistry in 1951, became associate director of the Lawrence Radiation Laboratory, Chancellor of the University of California, Berkeley, and Chair of the US Atomic Energy Commission. During his career, Seaborg was responsible or partly responsible for the discovery of ten elements. Glenn Seaborg died in California in 1999.",
+    "Born in Michigan in 1912, Glenn Seaborg received his BA in chemistry from UCLA in 1933 and his PhD in chemistry from the University of California, Berkeley in 1937. In 1941, Seaborg and colleague Edwin McMillan bombarded uranium with deuterons, producing a new element, plutonium 239. Later that same year, Seaborg and colleagues demonstrated that plutonium was fissile, greatly influencing the Manhattan Project’s atomic bomb development. Seaborg’s contributions ultimately led to the fuel for Fat Man, the atomic bomb dropped on Nagasaki, Japan on August 9, 1945.",
+    "In 1942, Seaborg joined the staff at the University of Chicago’s Metallurgical Laboratory, refining how to extract plutonium from uranium. His research at the Met Lab influenced the construction of the X-10 Graphite Reactor in Oak Ridge in 1943 and the plutonium production facilities at Hanford in 1944.",
+    "After the war, Seaborg received the Nobel Prize in Chemistry in 1951, became associate director of the Lawrence Radiation Laboratory, Chancellor of the University of California, Berkeley, and Chair of the US Atomic Energy Commission. During his career, Seaborg was responsible or partly responsible for the discovery of ten elements. Glenn Seaborg died in California in 1999."
+  ],
+  "links": [],
+  "sha256": "de9bba02bd0ce01023a6ebe07317c2f5c1ff31ea656eed5345c419ec612aa805",
+  "retrieved_utc": "2026-11-17T16:37:05Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

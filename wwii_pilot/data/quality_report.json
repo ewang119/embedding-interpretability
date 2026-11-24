@@ -1,0 +1,20 @@
+{
+  "passages": 1000,
+  "anchors": 40,
+  "draft_decisions": 40000,
+  "minimum_draft_positives": 25,
+  "maximum_draft_positives": 61,
+  "new_verified_excerpts": 550,
+  "new_source_groups": 274,
+  "new_max_passages_per_source": 3,
+  "new_max_words_per_passage": 70,
+  "new_max_excerpt_words_per_source": 200,
+  "near_duplicate_pairs": 0,
+  "missing_original_source": 303,
+  "human_reviewed_passages": 0,
+  "provisional_definitions": 10,
+  "errors": [],
+  "integrity_passed": true,
+  "train_ready": false,
+  "limitation": "Exact source verification is a text-location check, not a historical fact check or human approval of labels. Sampling quotas do not establish training adequacy."
+}

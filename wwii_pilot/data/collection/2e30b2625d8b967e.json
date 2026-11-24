@@ -1,0 +1,16 @@
+{
+  "url": "https://www.nps.gov/mapr/learn/plutonium.htm",
+  "title": "Producing Plutonium",
+  "paragraphs": [
+    "Discovered by Glenn Seaborg and Edwin McMillan and their teams at U.C. Berkeley in 1940, plutonium moved from a laboratory novelty to an essential component in an atomic weapon seemingly overnight. Physicists and chemists at the Metallurgical Laboratory in Chicago worked to scale-up the laboratory process as quickly as possible and along the way, Enrico Fermi succeeded in achieving a self-sustained nuclear chain reaction using his Chicago Pile-1 reactor in 1942; a critical step in being able to produce plutonium at the level needed.",
+    "After Chicago Pile-1's success, the X-10 Graphite Reactor was built in Oak Ridge and began operating on November 4, 1943. Though the reactor never produced fissionable quantities of plutonium, it did supply Los Alamos scientists with experimental quantities of plutonium necessary to design Fat Man, the world’s first plutonium-fueled atomic bomb used in war. The X-10 also paved the way for producing plutonium on an industrial scale. Starting in 1943, the United States engineered and built the world’s first full-scale production nuclear reactor in Hanford, Washington along with two additional production reactors, uranium fuel fabrication facilities, and chemical separation facilities. As in the ancient dream of alchemists of turning lead into gold, the Hanford process transmuted one element, uranium, into another, plutonium. Approximately 4000 pounds (1814.36 kg) of uranium are needed to produce 1 pound (0.45 kg) of plutonium. Eventually, enough plutonium was produced to be used in the first successful test of a nuclear device at Trinity Site and in the Fat Man plutonium bomb dropped over Nagasaki, Japan, on August 9, 1945."
+  ],
+  "links": [
+    "https://www.nps.gov/people/manhattan-project-scientists-edwin-mattison-mcmillan.htm",
+    "https://www.nps.gov/people/manhattan-project-scientists-glenn-theodore-seaborg.htm"
+  ],
+  "sha256": "296da755bd73e8522e86469d2392e967c9c19732063a6fac32f4ee798fed7911",
+  "retrieved_utc": "2026-11-17T16:36:21Z",
+  "http_status": 200,
+  "extraction_note": "Text paragraphs only; layout tables unwrapped, data tables/captions/headings removed; whitespace normalized."
+}

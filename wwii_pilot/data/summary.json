@@ -1,0 +1,18 @@
+{
+  "passages": 1000,
+  "target_passages": 1000,
+  "remaining_passages": 0,
+  "anchors": 40,
+  "provisional_anchor_definitions": 10,
+  "draft_decisions": 40000,
+  "human_reviewed_passages": 0,
+  "known_source_passages": 697,
+  "source_verified_passages": 550,
+  "missing_original_source": 303,
+  "duplicates_removed": 0,
+  "near_duplicate_pairs": 0,
+  "changed_target_labels": 15,
+  "min_positive": 75,
+  "split_status": "unassigned: original source groups and reviewed labels must be completed before training export",
+  "train_ready": false
+}

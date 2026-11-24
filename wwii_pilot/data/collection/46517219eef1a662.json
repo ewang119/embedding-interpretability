@@ -1,0 +1,21 @@
+{
+  "url": "https://www.nps.gov/cato/learn/historyculture/oss1.htm",
+  "title": "Creation of the OSS",
+  "paragraphs": [
+    "As World War II heated up in 1940, President Franklin D. Roosevelt was fearful of British collapse. At the advice of his Navy Secretary Frank Knox, Roosevelt sent William J. \"Wild Bill\" Donovan to assess the chances of Britain's survival if invaded by the Nazis. William Donovan was a successful Wall Street attorney and World War I hero and a recipient of the Medal of Honor. Upon return to the United States, Donovan met with the President and they determined that the British would only be able to survive with assistance. In July of 1941, Roosevelt created a civilian agency within the White House to oversee American intelligence. He appointed Donovan head of the newly created office as the Coordinator of Information (COI).",
+    "At Donovan's request, the military Joint Chiefs of Staff incorporated the office of the COI, to improve trust and share military resources. On June 13, 1942, Roosevelt issued an executive order creating the Office of Strategic Services (OSS). The COI was dissolved. Donovan received a commission as an Army general and became head of the new agency. The Office of Strategic Services is considered America's first centralized intelligence agency, the predecessor of our current Central Intelligence Agency (CIA), and the forerunner of today's Special Forces.",
+    "The basic mission of the OSS was to obtain information and to sabotage the military efforts of enemy nations during WWII. Agents of the OSS fought a covert war full of daring and adventure. Many insiders would sarcastically refer to the agency as “Oh So Secret,” “Oh So Silly,” or “Oh So Social.” Some famous members of the OSS included movie actors Douglas Fairbanks and Sterling Hayden, baseball player Mo Berg, chef Julia Child, future CIA director William Casey, and movie directors Merian Cooper and John Ford. The OSS specialized in dropping operatives behind enemy lines to carry out sabotage, demolition, counter propaganda, and disinformation activities. Agents aided and supported resistance fighters as well as gathered information on enemy resources and troop movements.",
+    "Individuals were recruited for skills rather than background. Prospective members would undergo a battery of mental and physical tests. They were chosen based on a combination of intelligence, imagination, creativity, courage, and ruthlessness. Men and women from all walks of life, from around the world were recruited, including, but not limited to, psychiatrists, gunsmiths, engineers, chemists, police detectives, prisoners, safecrackers, bankers, journalists, and gangsters. In addition to US citizens, the OSS trained German and Austrian individuals for missions inside Germany. Some agents included exiled communists, anti-Nazi POWs, and German and Jewish refugees."
+  ],
+  "links": [
+    "https://www.nps.gov/cato/learn/historyculture/oss-training.htm",
+    "https://www.nps.gov/cato/learn/historyculture/oss-training1.htm",
+    "https://www.nps.gov/cato/learn/historyculture/oss-training2.htm",
+    "https://www.nps.gov/cato/learn/historyculture/oss-training3.htm",
+    "https://www.nps.gov/cato/learn/historyculture/oss1.htm"
+  ],
+  "sha256": "09f4539009e0f929362162a4c4d8b8387fb64b2232aceb1a9e3b44561fbbfdaf",
+  "retrieved_utc": "2026-11-17T16:36:21Z",
+  "http_status": 200,
+  "extraction_note": "Text paragraphs only; layout tables unwrapped, data tables/captions/headings removed; whitespace normalized."
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hut_6",
+  "title": "Hut 6",
+  "paragraphs": [
+    "Hut 6 was a wartime section of the Government Code and Cypher School at Bletchley Park , Buckinghamshire , Britain , to solve German Army and Air Force Enigma machine cyphers. Hut 8 , by contrast, attacked Naval Enigma. Hut 6 was established at the initiative of Gordon Welchman , and was run initially by Welchman and fellow Cambridge mathematician John Jeffreys . Welchman's deputy, Stuart Milner-Barry , succeeded Welchman as head of Hut 6 in September 1943, at which point over 450 people were working in the section.",
+    "Hut 6 worked with Hut 3 , which handled the translation and intelligence analysis of the raw decrypts provided by Hut 6. The Air Force Enigma Processing and Decryption Section was housed in Hut 6 from January 1940 to February 1943 when the Hut was renumbered Hut 16.",
+    "Hut 6 was originally named after the building in which the section was located. Welchman says the hut was 20 yd (18 m) long by 10 yd (9.1 m) wide, with two large rooms at the far end – and no toilets. Staff had to go to another building. Irene Young recalled that she \"worked in Room 82, though in typical Bletchley fashion there were not eighty-one rooms preceding it\". She was glad to move from the Decoding Room \"where all the operators were constantly having nervous breakdowns on account of the pace of work and the appalling noise\" to the Registration Room which arranged intercepts according to call sign and frequency. As the number of personnel increased, the section moved to more buildings around Bletchley Park, but its name was retained, with each new location also being known as 'Hut 6'. The original building was then renamed 'Hut 16'.",
+    "John Jeffreys was initially in charge of the Hut with Gordon Welchman until May 1940; Jeffreys was diagnosed ill in 1940 and died in 1944. Welchman became official head of section until autumn 1943, subsequently rising to Assistant Director of Mechanisation at Bletchley Park. Hugh Alexander , was a member from February 1940 to March 1941 before moving to become head of Hut 8 . Stuart Milner-Barry joined early 1940 and was in charge from autumn 1943 to the end of the war.",
+    "One code breaker concerned with cryptanalysis of the Enigma , John Herivel , discovered what was soon dubbed the Herivel tip or Herivelismus . For a few months from May 1940, the \"tip\", in conjunction with operating shortcomings or \" cillies \", were the main techniques used to solve Enigma. The \"tip\" was an insight into the habits of the German machine operators allowing Hut 6 to easily deduce part of the daily key . David Rees is credited with the first decode using the Herivel tip.",
+    "In 1942, Welchman recruited fellow Old Marlburians , Bob Roseveare and Nigel Forward. Roseveare started in the Watch working on Luftwaffe messages before moving to the Quatch , a small backroom group that decoded non-current messages. In Hut 6 were the Machine Room, plus the Decoding Room and Registration Room with mainly female staff under Harold Fletcher, a school and university friend of Gordon Welchman. In 2014 one of these female staff, Mair Russell-Jones , published a posthumous memoir of her work there."
+  ],
+  "sections": [
+    "Contents",
+    "Contents",
+    "Location",
+    "Personnel",
+    "Personnel",
+    "Personnel"
+  ],
+  "links": [],
+  "sha256": "3d60c01fb66f5ba063ee352c6ab2a8d5ce85c0ebcab8fe16aa64779aecb500e5",
+  "retrieved_utc": "2026-11-17T17:08:19Z",
+  "http_status": 200,
+  "source_license": "CC BY-SA 4.0",
+  "attribution": "Wikipedia contributors, Hut 6",
+  "revision_id": "1371419209",
+  "extraction_note": "Paragraph text only; citation markers removed; whitespace normalized; tables, captions, quotes excluded."
+}

@@ -1,0 +1,2 @@
+# Preserve the supplied text inputs byte for byte, including final blank lines.
+data/inputs/*.txt whitespace=-blank-at-eof

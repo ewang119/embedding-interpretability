@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nps.gov/articles/000/women-s-army-corps-wac.htm",
+  "title": "Women's Army Corps (WAC)",
+  "paragraphs": [
+    "The Women's Army Corps (WAC) was the women's branch of the United States Army, created during World War II . One hundred and fifty thousand women served in the WAC during the war. Their noncombat jobs ranged from switchboard operators to mechanics to bakers and beyond. This page collects information about the parks, historic places, people, and stories connected to the history of the WAC.",
+    "Iowa's Fort Des Moines was the first training site for Army women during WWII and the only site for WAC officers.",
+    "In 1945, this Army base was the site of a historic strike by African American members of the WAC in protest of racial discrimination.",
+    "At Fitzsimons General Hospital in Aurora, CO, Wacs served as medical technicians, physical therapists, optometrists, and other skilled jobs.",
+    "Fort Oglethorpe, an Army base near Chickamauga National Battlefield, was a major WAC training site from 1942 until 1945.",
+    "View a video tour of the 3rd WAC Training Center at Ft. Oglethorpe, GA, now part of Chickamauga & Chattanooga National Military Park.",
+    "This barrack was the first at Fort Hancock for women soldiers, who arrived in 1943 and provided essential logistical support.",
+    "The 6888th Central Postal Directory Battalion was the only majority Black WAC unit to serve overseas during World War II."
+  ],
+  "links": [
+    "https://www.nps.gov/articles/000/6888th.htm",
+    "https://www.nps.gov/articles/000/fort-des-moines-a-series-of-firsts-in-wartime-service.htm",
+    "https://www.nps.gov/articles/000/places-of-temporary-buildings-wwii-s-700-and-800-series-buildings.htm",
+    "https://www.nps.gov/articles/chickamaugawac.htm",
+    "https://www.nps.gov/places/000/barracks-25-the-wac-palace.htm",
+    "https://www.nps.gov/places/fort-devens-historic-district.htm"
+  ],
+  "sha256": "24c23e7952fdc56f8a2e830587c747b407e5455c1b9973ea4d0cb9eb1875447c",
+  "retrieved_utc": "2026-11-17T16:37:54Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

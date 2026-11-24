@@ -1,0 +1,12 @@
+{
+  "url": "https://www.nps.gov/articles/000/united-states-marine-corps-women-s-reserve.htm",
+  "title": "United States Marine Corps Women's Reserve",
+  "paragraphs": [
+    "The United States Marine Corps Women's Reserve (MCWR) was created during World War II and allowed women the opportunity for military service. Led by its first director Ruth Cheney Streeter, the MCWR's stated goal was to free male Marines for combat duty by filling their jobs with qualified women. About 23,000 women served in the MCWR during World War II. Learn more about the Marine Corps Women's Reserve here."
+  ],
+  "links": [],
+  "sha256": "cf0325a411767fe868c9137744ca7d5b6c5893047fcb02df31e1eda02f061e35",
+  "retrieved_utc": "2026-11-17T16:37:54Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

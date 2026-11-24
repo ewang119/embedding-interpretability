@@ -1,0 +1,38 @@
+{
+  "url": "https://www.nps.gov/articles/000/women-at-work-during-world-war-ii.htm",
+  "title": "Women at Work During World War II",
+  "paragraphs": [
+    "During World War II , millions of women went to work outside the home for the first time. Millions more continued to work--as they had been doing for years. They labored in factories, building ships, tanks, and bombs for the war effort. They toiled in schools, hospitals, and offices. And they aimed to achieve a tricky balance between jobs and personal lives. Explore articles, lesson plans, oral history interviews, and more stories of women at work during World War II.",
+    "Alice Yick was the first Chinese American woman to work at the Charlestown Navy Yard in Boston, and an advocate for military veterans.",
+    "Betty Reid Soskin, now retired, was a Park ranger with the NPS at Rosie the Riveter WWII Home Front National Historical Park.",
+    "During WWII, “Sallie” was Army codename for SF because Sallie K. Braun virtually \"ran the Army Port of San Francisco single-handed.\"",
+    "Eleanor Roosevelt's extensive travels to conflict zones during WWII made her determined to find a way to lasting peace after the war ended.",
+    "María Ylagan Orosa was a Filipina nutritionist, food chemist, and war heroine.",
+    "More than 8000 women streamed into war jobs at Boston's Charlestown Navy Yard during World War II.",
+    "In the Bay Area and throughout the nation, women worked at jobs such as welding and riveting while maintaining roles as mothers and wives.",
+    "During WWII, the United States subsidized childcare for some of the many women workers who powered the war effort.",
+    "Believing that “victory abroad [should] be accompanied by a war against racism at home,” many Black women fought racism in war industry.",
+    "In Dayton, OH, members of the Navy WAVES worked building decryption bombes, machines for military intelligence, during WWII.",
+    "This lesson plan spotlights the work of Ohio women in the aviation and defense industries during WWII.",
+    "Explore this collection of stories of women workers during WWII from Rosie the Riveter WWII Home Front National Historical Park."
+  ],
+  "links": [
+    "https://www.nps.gov/articles/000/-h-our-history-lesson-aviation-and-defense-industry-in-dayton-and-montgomery-county-ohio.htm",
+    "https://www.nps.gov/articles/000/-h-our-history-lesson-navy-waves-building-decryption-bombes-in-dayton-ohio.htm",
+    "https://www.nps.gov/articles/000/betty-reid-soskin.htm",
+    "https://www.nps.gov/articles/000/childcare-on-the-world-war-ii-home-front.htm",
+    "https://www.nps.gov/articles/000/maria-ylagan-orosa.htm",
+    "https://www.nps.gov/articles/000/tending-the-homefront.htm",
+    "https://www.nps.gov/articles/000/women-in-world-war-ii.htm",
+    "https://www.nps.gov/articles/cny-swons.htm",
+    "https://www.nps.gov/articles/discrimination-and-african-american-women-at-charlestown-navy-yard.htm",
+    "https://www.nps.gov/articles/erooseveltww2.htm",
+    "https://www.nps.gov/people/alice-yick.htm",
+    "https://www.nps.gov/people/salliekbraun.htm",
+    "https://www.nps.gov/rori/learn/historyculture/people.htm"
+  ],
+  "sha256": "c6dedeffc1993b0b692ba5fb632c53e6689f846d9d98b2d5233212cc00824471",
+  "retrieved_utc": "2026-11-17T16:37:04Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

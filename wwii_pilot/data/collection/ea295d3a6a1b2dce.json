@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ex_parte_Endo",
+  "title": "Ex parte Endo",
+  "paragraphs": [
+    "Ex parte Mitsuye Endo , 323 U.S. 283 (1944), was a United States Supreme Court ex parte decision handed down on December 18, 1944, in which the Court unanimously ruled that the U.S. government could not continue to detain a citizen who was \"concededly loyal\" to the United States. Although the Court did not touch on the constitutionality of the exclusion of people of Japanese ancestry from the West Coast , which it had found not to violate citizens' rights in the Korematsu v. United States decision on the same date, the Endo ruling nonetheless led to the reopening of the West Coast to Japanese Americans after their incarceration in camps across the U.S. interior during World War II .",
+    "The Court also found as part of this decision that if Congress is found to have ratified by appropriation any part of an executive agency program, the bill doing so must include a specific item referring to that portion of the program.",
+    "Mitsuye Endo was an American citizen of Japanese descent who was forcibly relocated by military order from Sacramento, California to Tule Lake War Relocation Center in 1942. She filed a petition for a writ of habeas corpus in July 1942 seeking to be released from detention.",
+    "Endo had worked as a clerk for the California Department of Motor Vehicles in Sacramento before World War II . After the attack on Pearl Harbor soured public sentiment toward Japanese Americans , Endo and other Nisei state employees were harassed and eventually fired because of their Japanese ancestry .",
+    "Civil rights attorney and president of the Japanese American Citizens League (JACL), Saburo Kido , working with San Francisco attorney James Purcell, began a legal campaign to assist these workers, but the forced relocation authorized by Executive Order 9066 complicated their case. Endo was selected as a test case for a petition of habeas corpus because of her profile as an Americanized, \"assimilated\" Nisei. She was a practicing Christian, had never been to Japan , spoke only English and no Japanese , and had a brother in the U.S. Army.",
+    "On July 13, 1942, Purcell filed the habeas corpus petition for Endo's release from the Tule Lake camp, where she and her family were being held. Judge Michael J. Roche heard Endo's case in July 1942 but did not issue a ruling until July 1943, when he denied her petition without explanation. An appeal was made to the Ninth Circuit Court of Appeals in August 1943, and in April 1944, Judge William Denman sent the case to the Supreme Court, rather than issuing a ruling himself. By then, Endo had been transferred to Topaz , Utah—Tule Lake having been converted to a segregated detention center for \" disloyal \" Japanese American inmates.",
+    "In an effort to halt her case, the War Relocation Authority had offered to release her if she agreed not to return to the West Coast, but Endo refused and so remained in confinement.",
+    "The unanimous opinion ruling in Endo's favor was written by Justice William O. Douglas , with Justices Frank Murphy and Owen Roberts concurring. It stopped short of addressing the question of the government's right to exclude citizens based on military necessity but instead focused on the actions of the WRA: \"In reaching that conclusion [that Endo should be freed] we do not come to the underlying constitutional issues which have been argued. ... [W]e conclude that, whatever power the War Relocation Authority may have to detain other classes of citizens, it has no authority to subject citizens who are concededly loyal to its leave procedure.\"",
+    "Because of that avoidance, it is very difficult to reconcile Endo with Korematsu , which was decided the same day. As Justice Roberts pointed out in his Korematsu dissent, distinguishing the cases required a reliance on the legal fiction that Korematsu dealt with only the exclusion of Japanese Americans, not their detention, and that Fred Korematsu could have gone anywhere else in the United States, when in reality he would have been subject to the detainment found illegal in Endo . In short, Endo determined that a citizen could not be imprisoned if the government was unable to prove disloyalty, but Korematsu allowed the government a loophole to punish that citizen criminally for refusing to be illegally imprisoned. Roberts also criticized the Court's majority for blaming the Army and failing to hold the president accountable. The executive branch, he pointed out, \"not only was aware of what was being done but in fact that which was done was formulated in regulations and in a so-called handbook open to the public.\" He called it \"inadmissible to suggest that some inferior public servant exceeded the authority granted by executive order in this case.\"",
+    "The Roosevelt administration , having been alerted to the Court's decision, issued Public Proclamation No. 21 the day before the Endo and Korematsu rulings were made public, on December 17, 1944. It rescinded the exclusion orders and declared that Japanese Americans could begin returning to the West Coast in January 1945."
+  ],
+  "sections": [
+    "Contents",
+    "Contents",
+    "Background",
+    "Background",
+    "Background",
+    "Background",
+    "Background",
+    "Endo , Korematsu , and end of internment",
+    "Endo , Korematsu , and end of internment",
+    "Endo , Korematsu , and end of internment"
+  ],
+  "links": [],
+  "sha256": "da4e4a7324537f901b840a5c18442c6536252503e43caa5b1bbcf5234dbf7d37",
+  "retrieved_utc": "2026-11-17T16:42:27Z",
+  "http_status": 200,
+  "source_license": "CC BY-SA 4.0",
+  "attribution": "Wikipedia contributors, Ex parte Endo",
+  "revision_id": "1366754981",
+  "extraction_note": "Paragraph text only; citation markers removed; whitespace normalized; tables, captions, quotes excluded."
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nps.gov/articles/armynursecorps.htm",
+  "title": "Army Nurse Corps",
+  "paragraphs": [
+    "Congress established the Army Nurse Corps in 1901. Nurses were the first women in the Army and U.S. Army General Hospital at the Presidio was the first Army hospital to employ them. By 1902, 41 nurses were part of the hospital staff. Dora E. Thompson was the Chief Nurse at Letterman during the 1906 earthquake and fire. She successfully commanded the nurses who helped treat numerous civilian casualties at the hospital during the disaster.",
+    "In 1918, Letterman was selected for the first Army School of Nursing and more classroom buildings and nurses’ quarters were added. In 1920, nurses acquired the relative rank of officer, but they would not receive permanent military commissions in the Army until 1947. In 1941, with the United States’ entry into World War II , only fifty-six African American nurses were allowed to enlist in the Army Nurse Corps. As the war progressed that quota was lifted on July 1944. 2 Men were admitted to the Nurse Corps in 1956.",
+    "During World War II , women signed up with the Army and Navy Nurse Corps for service in the Philippine Islands. Of the 99 nurses known to have served in or at Bataan, 22 escaped before the final fall of the Philippine Islands in 1942. The remaining 77, the largest group of women Prisoners of War in American history, were repatriated in 1945. To the men with which they served, and to whom they ministered, they became known as the “ Angels of Bataan.” The nurses were freed on February 21, 1945 after three years of imprisonment. On their way home, the released nurses were honored at Letterman Hospital.",
+    "Sources: 1. Lisa M. Budreau, Office of Medical History (U.S. Army) Office of the Surgeon General, Richard M. Prior, Answering The Call: The U.S. Army Nurse Corps, 1917-1919: A commemorative Tribute to Military Nursing in world War I . Government Printing Office, 2008. 2. \"Black History Month Proud To Serve: African American Army Nurse Corps Officers.\" Office Of Medical History - African American Army Nurse Corps Officers. July 07, 2009. Accessed May 18, 2019. Https://history.amedd.army.mil/ancwebsite/articles/blackhistory.html."
+  ],
+  "links": [
+    "https://www.nps.gov/articles/1906-earthquake-and-the-army.htm",
+    "https://www.nps.gov/articles/philippinesmilitarynurses.htm",
+    "https://www.nps.gov/people/doraethompson.htm"
+  ],
+  "sha256": "18f217a078c350bd29092eafb0dca2c8d35f15fead9995375f2339fb3efa5f1b",
+  "retrieved_utc": "2026-11-17T16:37:04Z",
+  "http_status": 200,
+  "extraction_note": "HTML text only; headings, captions, tables, navigation, blockquotes removed; whitespace normalized. Paragraphs not joined."
+}

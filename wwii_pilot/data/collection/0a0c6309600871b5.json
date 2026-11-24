@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Freya_radar",
+  "title": "Freya radar",
+  "paragraphs": [
+    "Freya was a German early warning radar of World War II ; it was named after the Norse goddess Freyja . During the war, over a thousand stations were built. A naval version operating on a slightly different wavelength was also developed as the Seetakt .",
+    "In July 1938, the first tests of DeTe-IIs, what would become the \" Freya \", were conducted by the Kriegsmarine by the GEMA company. In September 1938, Wolfgang Martini deployed Freyas on Geisinger Berg and Grosser Schneeberg, before the German occupation of Czechoslovakia . The Freyas supported an early version of Identification friend or foe (IFF). Aircraft equipped with the FuG 25a \" Erstling \" IFF system could be queried at ranges of over 100 km.",
+    "The \"AN\" version gained a switchable phasing line for the antenna. Switching in the phasing line led to a phase displacement of the antenna's radiation pattern and with that, a squinting to the left or right. This enabled the system in effect to switch from the rather broad \"scanning for maxima\" to narrow lobe switching , with an angular resolution of 0.1° achievable by a skilled operator.",
+    "The Freya radar was more advanced than its British counterpart, Chain Home . Freya operated on a 1.2 m (3.9 ft) wavelength (250 MHz) while Chain Home used 12 m. This allowed Freya to use a much smaller antenna system that was easier to rotate, move and position. It also offered higher resolution, allowing it to detect smaller targets. Because of its complex design, only eight Freya stations were operational when the war started, leaving large gaps between the covered areas. The British Chain Home radar, although less advanced and more prone to errors, was simpler, which meant that the complete Chain Home network was ready in time for the Battle of Britain .",
+    "Freya was often used in concert with the primary German gun laying radar , Würzburg Riese (Giant Würzburg); the Freya finding targets at long distances and then \"handing them over\" to the shorter-ranged Würzburgs for tracking. Later in the war, Freya operated in the band from 2.5 to 2.3 m (8.2 to 7.5 ft) (120 to 130 MHz ), with a pulse width of three microseconds , a peak power output of 15 to 20 kW , and a pulse repetition frequency of 500 Hz. It had a maximum range of only 160 kilometers (99 mi) , less than Chain Home, and it could not accurately determine altitude but it was a fully steerable and semi-mobile system.",
+    "Freya was first successfully used on 18 December 1939 when two stations detected an approaching daytime raid on Wilhelmshaven by 22 RAF Vickers Wellington bombers at a range of 113 km (70 mi) and guided fighters toward them via radio. Only half of the Wellingtons returned to Britain undamaged but the German fighters only reached the bombers after they had made their bombing run on ships in harbour. The performance of Freya left the Luftwaffe so impressed that, by the spring of 1940, eleven Freya stations had been installed to guard Germany's western border. After the invasion of France in 1940, additional Freya stations were built along the Atlantic coast. When Britain started its bombing raids, Hermann Göring ordered Colonel (later General) Josef Kammhuber to install an efficient air defence. This led to the so-called Kammhuber Line into which more Freya stations were incorporated. Later in the war, Freya devices turned out to be vulnerable to chaff , and other countermeasures, which still allowed them to be used for early warning, but no longer for guiding fighter planes. British bombing raids could also be organized such that the Kammhuber Line could be overwhelmed in massed raids.",
+    "One of the first to give British intelligence any details about the Freya Radar was a young Danish Flight Lieutenant, Thomas Sneum , who, at great risk to his life, photographed radar installations on the Danish island of Fanø in 1941. He brought the negatives to Britain in a dramatic flight which is fictionalized in Ken Follett 's novel Hornet Flight . Sneum's deed is also mentioned in R. V. Jones's Most Secret War as a 'most gallant exploit' and is one of the featured stories in Courage & Defiance by Deborah Hopkinson.",
+    "To counter Freya , the British used equipment called 'Moonshine'. Carried by Boulton Paul Defiant aircraft of the Special Duties Flight (later 515 Squadron ), a single set retransmitted a portion of the Freya signal amplifying the apparent return. Eight aircraft with 'Moonshine' could mimic a force of 100 bombers. A second countermeasures system, \"Mandrel\" was a noise jammer carried by aircraft of 100 Group which overwhelmed the signals from Freya . Individual aircraft were sent to orbit positions 50 miles (80 km) off the occupied coast. By using nine aeroplanes, a 200-mile (320 km) gap could be created in the Freya radar coverage, while further jammers were carried in the bomber stream to counter the inland Freya network.",
+    "One FuMG 80 Freya radar, after modification, was installed in 1957/8 at the Ondřejov Observatory in Czechoslovakia and served as meteorite tracking radar until 2006. Before then it was used at the Pardubice Airport , under name RZ III."
+  ],
+  "sections": [
+    "Contents",
+    "Development",
+    "Development",
+    "Development",
+    "Deployment and operation",
+    "Deployment and operation",
+    "British intelligence",
+    "Countermeasures",
+    "Post-war use"
+  ],
+  "links": [],
+  "sha256": "710c85ee9752bb62b1b9226a4833495b348b598324536f1c375c2b4158eb8a5d",
+  "retrieved_utc": "2026-11-17T16:42:20Z",
+  "http_status": 200,
+  "source_license": "CC BY-SA 4.0",
+  "attribution": "Wikipedia contributors, Freya radar",
+  "revision_id": "1382810524",
+  "extraction_note": "Paragraph text only; citation markers removed; whitespace normalized; tables, captions, quotes excluded."
+}

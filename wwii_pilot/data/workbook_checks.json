@@ -1,0 +1,13 @@
+{
+  "passages": 1000,
+  "binary_labels": 40000,
+  "workbook_csv_values_match": true,
+  "formula_error_cells": [],
+  "input_mutation_and_blank_checks_passed": true,
+  "sheets_visually_inspected": [
+    "Coverage",
+    "Labels",
+    "Anchors",
+    "Sources"
+  ]
+}
