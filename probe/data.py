@@ -148,6 +148,8 @@ def split_from_meta(meta: pd.DataFrame, ids: list[str], Y: np.ndarray, fracs=(0.
     - every chunk has a `split` (train/val/test) -> use it as given
     - otherwise, `source_id` present          -> stratified split, sources kept whole
     - otherwise                               -> plain stratified split by chunk
+    A supplied source_id column must be complete. A split column must be
+    entirely assigned or entirely blank; partial metadata is rejected.
     Returns (train, val, test index arrays, description of what was done).
     """
     meta = meta.copy()
@@ -159,7 +161,25 @@ def split_from_meta(meta: pd.DataFrame, ids: list[str], Y: np.ndarray, fracs=(0.
         raise ValueError(f"{len(missing)} chunk ids missing from meta, e.g. {sorted(missing)[:3]}")
     meta = meta.set_index("id").loc[list(ids)]
 
-    if "split" in meta.columns and meta["split"].notna().all() and (meta["split"].astype(str) != "").all():
+    if "source_id" in meta.columns:
+        source_ids = meta["source_id"].astype("string").str.strip()
+        missing_sources = source_ids.isna() | source_ids.eq("")
+        if missing_sources.any():
+            raise ValueError(f"source_id is missing or blank for {int(missing_sources.sum())} chunk(s); "
+                             "complete the source groups before splitting")
+        meta["source_id"] = source_ids.astype(str)
+
+    given_split = False
+    if "split" in meta.columns:
+        split_values = meta["split"].astype("string").str.strip()
+        assigned = split_values.notna() & split_values.ne("")
+        if assigned.any() and not assigned.all():
+            raise ValueError("split is partially filled; assign train/val/test to every chunk "
+                             "or leave the entire column blank")
+        given_split = bool(assigned.all())
+        meta["split"] = split_values.fillna("").astype(str)
+
+    if given_split:
         bad = set(meta["split"]) - set(SPLIT_NAMES)
         if bad:
             raise ValueError(f"split values must be train/val/test, got {sorted(bad)}")
@@ -172,7 +192,7 @@ def split_from_meta(meta: pd.DataFrame, ids: list[str], Y: np.ndarray, fracs=(0.
             if crossing:
                 raise ValueError(f"{len(crossing)} source(s) appear in more than one split, e.g. {sorted(crossing)[:3]}")
         return parts, "given in meta"
-    if "source_id" in meta.columns and meta["source_id"].notna().all():
+    if "source_id" in meta.columns:
         return stratified_split(Y, fracs, seed, groups=meta["source_id"].astype(str).to_numpy()), \
             "stratified, sources kept whole"
     return stratified_split(Y, fracs, seed), "stratified by chunk"

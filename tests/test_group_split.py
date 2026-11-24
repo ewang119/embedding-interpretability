@@ -108,6 +108,23 @@ def test_meta_without_split_groups_by_source():
     assert [p.tolist() for p in parts] == [p.tolist() for p in stratified_split(Y, groups=g)]
 
 
+@pytest.mark.parametrize("missing_source", [None, np.nan, "", "   "])
+@pytest.mark.parametrize("given_split", [None, ["train", "train", "val", "test"]])
+def test_meta_rejects_missing_source_ids(missing_source, given_split):
+    ids = ["a", "b", "c", "d"]
+    m = meta_for(ids, groups=["s1", "s1", "s2", missing_source], split=given_split)
+    with pytest.raises(ValueError, match="source_id.*missing or blank"):
+        split_from_meta(m, ids, np.zeros((4, 1)))
+
+
+def test_meta_rejects_partially_assigned_split():
+    ids = ["a", "b", "c", "d"]
+    m = meta_for(ids, groups=["s1", "s1", "s2", "s3"],
+                 split=["train", None, "val", "test"])
+    with pytest.raises(ValueError, match="split.*partially filled"):
+        split_from_meta(m, ids, np.zeros((4, 1)))
+
+
 # ---------------------------------------------------------------------------
 # probe.run --meta
 # ---------------------------------------------------------------------------
@@ -138,5 +155,14 @@ def test_run_reports_bad_meta_clearly(tmp_path):
     pd.DataFrame({"id": ["a", "b", "c"], "k": [1, 0, 1]}).to_csv(tmp_path / "l.csv", index=False)
     pd.DataFrame({"id": ["a", "b"]}).to_csv(tmp_path / "m.csv", index=False)
     with pytest.raises(SystemExit, match="--meta"):
+        run_main(["--embeddings", str(tmp_path / "e.npy"), "--labels", str(tmp_path / "l.csv"),
+                  "--meta", str(tmp_path / "m.csv"), "--out", str(tmp_path / "out")])
+
+
+def test_run_rejects_incomplete_source_groups(tmp_path):
+    np.save(tmp_path / "e.npy", np.zeros((3, 2), dtype=np.float32))
+    pd.DataFrame({"id": ["a", "b", "c"], "k": [1, 0, 1]}).to_csv(tmp_path / "l.csv", index=False)
+    meta_for(["a", "b", "c"], groups=["s1", None, "s2"]).to_csv(tmp_path / "m.csv", index=False)
+    with pytest.raises(SystemExit, match="--meta:.*source_id.*missing or blank"):
         run_main(["--embeddings", str(tmp_path / "e.npy"), "--labels", str(tmp_path / "l.csv"),
                   "--meta", str(tmp_path / "m.csv"), "--out", str(tmp_path / "out")])

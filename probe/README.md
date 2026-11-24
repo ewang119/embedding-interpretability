@@ -30,6 +30,9 @@ takes about a minute on a laptop CPU.
    passages from one source go to the same split, so a model can't score
    well just by recognizing an article it saw in training. A full `split`
    column is used as given (and rejected if a source spans two splits).
+   If a `source_id` column is supplied, every row must have a nonblank value.
+   A partially filled `split` column is also rejected, so incomplete metadata
+   cannot silently change the intended split.
 2. **Standardize** each position using train-set mean and std. Needed so weight
    sizes can be compared across positions, and it means "zero out a position"
    is the same as "set it to its average" (mean ablation).
@@ -79,6 +82,23 @@ probe still ranks chunks correctly, which would make F1 drops misleading.
 | `split.json`, `label_counts.csv` | which chunk went where, positives per split |
 
 ## From WWII passages to a run
+
+The commands below read the older `validation/data/` format. The 1,000-passage
+pilot lives in `wwii_pilot/data/` and is not yet connected to this exporter.
+Its `labeling.csv` includes review and source columns, so it cannot be passed
+directly as `--labels`.
+
+Before training on the pilot, export matching `texts.csv`, `labels.csv`, and
+`meta.csv` in a fixed passage order, then generate embeddings in that same order.
+The exporter must distinguish draft `working_labels` from approved `labels`.
+The current pilot has no human-approved rows, 303 passages without source IDs,
+and 10 provisional anchor definitions. A run using draft labels is exploratory;
+reviewed evaluation requires reviewed labels and complete source groups.
+`notes_4.txt` is currently empty, so it does not finalize those definitions.
+
+The default split is 70/10/20 train/validation/test. This reserves 20% for test
+and divides the other 80% between fitting and tuning. Keep one saved split for
+the probe and bag-of-words baseline; pass `--meta` to keep sources together.
 
 ```bash
 python3 -m validation.validate_wwii --anchors validation/data/anchors.json \
