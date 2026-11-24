@@ -83,22 +83,36 @@ probe still ranks chunks correctly, which would make F1 drops misleading.
 
 ## From WWII passages to a run
 
-The commands below read the older `validation/data/` format. The 1,000-passage
-pilot lives in `wwii_pilot/data/` and is not yet connected to this exporter.
-Its `labeling.csv` includes review and source columns, so it cannot be passed
-directly as `--labels`.
+The 1,000-passage pilot lives in `wwii_pilot/data/`. Its review CSV includes
+metadata columns and cannot be passed directly as `--labels`. Export a training
+bundle first:
 
-Before training on the pilot, export matching `texts.csv`, `labels.csv`, and
-`meta.csv` in a fixed passage order, then generate embeddings in that same order.
-The exporter must distinguish draft `working_labels` from approved `labels`.
-The current pilot has no human-approved rows, 303 passages without source IDs,
-and 10 provisional anchor definitions. A run using draft labels is exploratory;
-reviewed evaluation requires reviewed labels and complete source groups.
-`notes_4.txt` is currently empty, so it does not finalize those definitions.
+```bash
+python3 -m wwii_pilot.export_training --out results/wwii_pilot_draft \
+    --allow-ai-drafts --known-sources-only
+```
+
+This explicitly uses draft `working_labels` and excludes passages without source
+IDs/URLs. The current result contains 697 passages, with all exclusions and
+limitations recorded in `export.json`. The exporter defaults to approved
+`labels` when `--allow-ai-drafts` is absent. See `wwii_pilot/README.md` for
+reviewed/verified subsets and full commands. The current pilot has no human-
+approved rows, 303 missing source IDs, and 10 provisional definitions;
+`notes_4.txt` is empty and does not finalize them.
+
+Embed the exported `texts.csv` in its existing row order, with one fixed model
+and settings. Then pass the exported `labels.csv` and `meta.csv` to `probe.run`.
+The export also includes `split.json` for the baseline and `label_counts.csv`.
+At the default seed/split, 24 anchors in the current known-source subset fail the
+five-test-positive threshold. Such a draft run is exploratory, not a reviewed
+40-anchor evaluation.
 
 The default split is 70/10/20 train/validation/test. This reserves 20% for test
 and divides the other 80% between fitting and tuning. Keep one saved split for
 the probe and bag-of-words baseline; pass `--meta` to keep sources together.
+
+The following commands are for the older three-sentence `validation/data/`
+format, which is separate from the pilot:
 
 ```bash
 python3 -m validation.validate_wwii --anchors validation/data/anchors.json \

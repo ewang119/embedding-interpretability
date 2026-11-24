@@ -1,6 +1,6 @@
 # WWII pilot dataset
 
-Everything for this pilot lives in `wwii_pilot/`, separate from the older collection validator and Reuters notebooks. The Python tools use only the standard library.
+Everything for this pilot lives in `wwii_pilot/`, separate from the older collection validator and Reuters notebooks. Import and review tools use only the standard library. The training exporter also uses NumPy and pandas from the repository requirements and shares the probe's source-grouped splitter.
 
 This is one shared pool, with a separate yes/no judgment for every passage–anchor pair. Labels are multi-label: one passage may support several anchors. The original 12-positive/3-negative collection buckets are retained as provenance, not copied into all other columns as negatives.
 
@@ -55,6 +55,75 @@ Retrieval filters discover candidates only. An explicit passage-level review aga
 
 The original supplied pool includes passages whose original source is still missing, and some recovered URLs have not been rechecked. These are visible in the reports. This working pool is **not ready for training** until source problems, provisional definitions, and draft labels are reviewed. No split is assigned: the eventual 80/20 split must keep whole source works and overlapping passages together, rather than randomly splitting rows.
 
+## Training handoff
+
+The pilot exporter writes files directly compatible with `probe.run` and
+`probe.baseline`. Run from the repository root. An exploratory export using the
+current working labels and only passages with known source IDs and URLs is:
+
+```bash
+python3 -m wwii_pilot.export_training \
+  --out results/wwii_pilot_draft \
+  --allow-ai-drafts --known-sources-only
+```
+
+With the current pool this exports 697 passages and explicitly records the 303
+excluded passages. `--verified-only` instead selects the 550 passages with
+verified sources. Neither option changes the original pool or approves labels.
+Without `--allow-ai-drafts`, all selected passages must be marked `Reviewed`
+with complete approved labels. `--reviewed-only` explicitly selects that subset.
+Import review CSV/workbook changes with `refresh_shared_pool` before exporting;
+the exporter rejects disagreement between the CSV and JSONL.
+
+Each export contains:
+
+- `texts.csv`: `id,text`, for embedding in its existing row order.
+- `labels.csv`: `id` followed by one integer 0/1 column per anchor, in anchor order.
+- `meta.csv`: matching IDs, source URLs/titles/licenses where available, review
+  metadata, and the frozen train/validation/test assignment.
+- `split.json`: the same assignment as passage IDs, compatible with the baseline.
+- `label_counts.csv`: positive counts for all anchors in each split.
+- `export.json`: input/output hashes, label and source policies, excluded IDs,
+  provisional definitions, and evaluation limitations.
+
+The default split is 70/10/20: the 80% development portion includes 10% for
+validation. Whole sources stay together; actual sizes can differ slightly.
+All anchors remain in the export. With the current known-source draft pool,
+seed 0 and the default split, 24 anchors have fewer than five test positives;
+`probe.run` drops these at its default threshold. Inspect the manifest and counts
+before describing a run as evaluating all 40 anchors. Complete missing sources
+and improve coverage before freezing the final evaluation set.
+
+Generate `embeddings.npy` from `texts.csv` in the exported row order with one
+fixed embedding model, pooling method, and normalization. Save those settings
+and the generated row IDs alongside the vectors. Embedding generation is a
+separate step; the exporter does not create vectors. After generating them:
+
+```bash
+python3 -m probe.run \
+  --embeddings results/wwii_pilot_draft/embeddings.npy \
+  --labels results/wwii_pilot_draft/labels.csv \
+  --meta results/wwii_pilot_draft/meta.csv \
+  --out results/wwii_probe_draft
+```
+
+The bag-of-words baseline can run before embeddings are available, using the
+export's identical split:
+
+```bash
+python3 -m probe.baseline \
+  --texts results/wwii_pilot_draft/texts.csv \
+  --labels results/wwii_pilot_draft/labels.csv \
+  --split-from results/wwii_pilot_draft/split.json \
+  --out results/wwii_bow_draft
+```
+
+Use a new output directory for each export. Existing directories are refused
+to prevent mixing new labels with stale embeddings. Generated `results/`
+bundles remain local and are ignored by Git. Draft labels, provisional anchors,
+unverified source links, and insufficient split support are explicitly recorded
+as exploratory limitations; integrity checks do not constitute human review.
+
 ## Checks
 
 ```bash
@@ -66,6 +135,12 @@ This checks IDs, binary labels, CSV/JSONL agreement, exact source locations, new
 
 ```bash
 python3 -m unittest discover -s wwii_pilot/tests -p test_shared_pool.py -v
+```
+
+Training export and source-grouping regression tests use pytest:
+
+```bash
+python3 -m pytest tests/test_group_split.py wwii_pilot/tests/test_export_training.py -q
 ```
 
 The older `validation.validate_wwii` command targets the original three-sentence collection format and its separate anchor file. Use this shared-pool workflow for the two-or-three-sentence, 40-anchor draft.
