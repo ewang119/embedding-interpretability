@@ -1,0 +1,1294 @@
+{
+  "original": 10000,
+  "added": 421,
+  "total": 10421,
+  "target_draft_positives": 75,
+  "shortfalls_before": {
+    "A23": 30,
+    "A25": 38,
+    "A27": 30,
+    "A28": 11
+  },
+  "selection_sha256": "9e157a63ef327e59e425e6c18228eeebe824d91335b2ba09c66f9916ba9c666e",
+  "added_ids": {
+    "wwii_c6866ef7a3cb34f3": [
+      "A25"
+    ],
+    "wwii_91987abf6b1360d0": [
+      "A23"
+    ],
+    "wwii_65aae9ed0b700bad": [
+      "A27"
+    ],
+    "wwii_18dfebfe9bb411e0": [
+      "A28"
+    ],
+    "wwii_dd38902922127988": [
+      "A25"
+    ],
+    "wwii_ad5a4d47cea48db1": [
+      "A23"
+    ],
+    "wwii_940d0eccab380681": [
+      "A27"
+    ],
+    "wwii_d3a20310bcd063f4": [
+      "A28"
+    ],
+    "wwii_1b802b1184eee97b": [
+      "A25"
+    ],
+    "wwii_55a3c6f4c1bd40bc": [
+      "A23",
+      "A25"
+    ],
+    "wwii_77b9444ca5433abd": [
+      "A27"
+    ],
+    "wwii_d3c7e223dc499e07": [
+      "A28"
+    ],
+    "wwii_928f0ec094a782f2": [
+      "A25"
+    ],
+    "wwii_2628cdba2121ff10": [
+      "A23"
+    ],
+    "wwii_f8c08c410aacb104": [
+      "A27"
+    ],
+    "wwii_572c9652e235bae6": [
+      "A28"
+    ],
+    "wwii_2e942afc1fb09d2e": [
+      "A25"
+    ],
+    "wwii_f76694549042ef94": [
+      "A23"
+    ],
+    "wwii_20aac11a7e19be42": [
+      "A27"
+    ],
+    "wwii_2df6f8c5be300536": [
+      "A28"
+    ],
+    "wwii_811bae57fc95f029": [
+      "A25"
+    ],
+    "wwii_da9156a480624340": [
+      "A23"
+    ],
+    "wwii_d10eb5fb09a80157": [
+      "A27"
+    ],
+    "wwii_58d2f0dd230531f5": [
+      "A28"
+    ],
+    "wwii_de925d3fe1e6ee1d": [
+      "A25"
+    ],
+    "wwii_37d7130e1a753371": [
+      "A23"
+    ],
+    "wwii_733300fc40a35d94": [
+      "A27"
+    ],
+    "wwii_2f1d1fc42c036d44": [
+      "A28"
+    ],
+    "wwii_a990ed5b3406c77f": [
+      "A25"
+    ],
+    "wwii_2fd637f745934598": [
+      "A23"
+    ],
+    "wwii_540649256510fbdb": [
+      "A27",
+      "A28"
+    ],
+    "wwii_35650718856fde33": [
+      "A25"
+    ],
+    "wwii_2a4440e06469efbd": [
+      "A23"
+    ],
+    "wwii_f69183bb1f57ad6b": [
+      "A27"
+    ],
+    "wwii_1c571fb51858300a": [
+      "A28"
+    ],
+    "wwii_36eda97406c81034": [
+      "A25"
+    ],
+    "wwii_a14656b8b649ce54": [
+      "A23"
+    ],
+    "wwii_23a0ae9c4d4b85d9": [
+      "A27"
+    ],
+    "wwii_88761f7740898ce8": [
+      "A28"
+    ],
+    "wwii_3287523d4b6e0e56": [
+      "A25"
+    ],
+    "wwii_8d9c45c1938d9dd5": [
+      "A23"
+    ],
+    "wwii_76a15369cb8316ca": [
+      "A27"
+    ],
+    "wwii_fcc53592a781e42b": [
+      "A28"
+    ],
+    "wwii_31690bc1e97fe015": [
+      "A25",
+      "A28"
+    ],
+    "wwii_88fcd6f82a69728f": [
+      "A23"
+    ],
+    "wwii_64622b9f80a7b2c7": [
+      "A27"
+    ],
+    "wwii_0e70e4168f5d42fd": [
+      "A28"
+    ],
+    "wwii_cd958fa97394a440": [
+      "A25"
+    ],
+    "wwii_a8b69f31ddf32667": [
+      "A23"
+    ],
+    "wwii_44fb5579e4d70cb1": [
+      "A27"
+    ],
+    "wwii_072bb56644b56d84": [
+      "A28"
+    ],
+    "wwii_d1ac07a2c75054f7": [
+      "A25"
+    ],
+    "wwii_6bfd0888228b7c67": [
+      "A23"
+    ],
+    "wwii_154cb0cf6a34492c": [
+      "A27"
+    ],
+    "wwii_f69f5e934024063e": [
+      "A28"
+    ],
+    "wwii_070381d6a48b11c6": [
+      "A25"
+    ],
+    "wwii_72a8995e023a08da": [
+      "A23"
+    ],
+    "wwii_ff7231136d6b0f8f": [
+      "A27"
+    ],
+    "wwii_0bc5a8a2a74fe807": [
+      "A28"
+    ],
+    "wwii_556bc0132c413dbd": [
+      "A25"
+    ],
+    "wwii_2008172b114b06fe": [
+      "A23"
+    ],
+    "wwii_36ca7d0c2196838d": [
+      "A27"
+    ],
+    "wwii_b4ba17ca68a9ac24": [
+      "A28"
+    ],
+    "wwii_1249c4c79aa7e38b": [
+      "A25"
+    ],
+    "wwii_97be7a495d035fd0": [
+      "A23"
+    ],
+    "wwii_f699afcd51a9d559": [
+      "A27"
+    ],
+    "wwii_6132cbbe1d5788e1": [
+      "A28"
+    ],
+    "wwii_82e3238f38baac33": [
+      "A25"
+    ],
+    "wwii_75753faa14240cc5": [
+      "A23"
+    ],
+    "wwii_a56c16bca1f449c2": [
+      "A27"
+    ],
+    "wwii_2f94357b3d1bd4d6": [
+      "A28"
+    ],
+    "wwii_8d15fc1a65160cfc": [
+      "A25"
+    ],
+    "wwii_c68b8503d8fa6231": [
+      "A23"
+    ],
+    "wwii_b91ba2333d6d60e1": [
+      "A27"
+    ],
+    "wwii_ea5ad05550173bcb": [
+      "A28"
+    ],
+    "wwii_b0a25fe818a78d0f": [
+      "A25"
+    ],
+    "wwii_8d9f1f54d2a56a80": [
+      "A23"
+    ],
+    "wwii_2356ce5ee7467bfc": [
+      "A27"
+    ],
+    "wwii_5edaac6710d41f44": [
+      "A28"
+    ],
+    "wwii_fc8997d57adffc87": [
+      "A23",
+      "A25"
+    ],
+    "wwii_42e9abfeb1c95681": [
+      "A23"
+    ],
+    "wwii_89f12d6a8bccce48": [
+      "A27"
+    ],
+    "wwii_2ddcf5157c82abb7": [
+      "A25"
+    ],
+    "wwii_b2551b3ed25f8e42": [
+      "A23"
+    ],
+    "wwii_2385b22e7e22766e": [
+      "A27"
+    ],
+    "wwii_21ddf3368e22b6f9": [
+      "A28"
+    ],
+    "wwii_0b495d9988336418": [
+      "A25"
+    ],
+    "wwii_ef002c399046ed41": [
+      "A23"
+    ],
+    "wwii_5f01197b34098a6d": [
+      "A27",
+      "A28"
+    ],
+    "wwii_dc63d317cd45d23b": [
+      "A28"
+    ],
+    "wwii_8fd165f12f1e21bf": [
+      "A25"
+    ],
+    "wwii_410eda7aee9b6a44": [
+      "A23"
+    ],
+    "wwii_2f89c09afffbc475": [
+      "A27"
+    ],
+    "wwii_53a862f2bcce81f3": [
+      "A28"
+    ],
+    "wwii_77d660fa300bb384": [
+      "A25"
+    ],
+    "wwii_cb6a6445e49e786a": [
+      "A23"
+    ],
+    "wwii_fd460a9351f69194": [
+      "A27"
+    ],
+    "wwii_ec01c59316be387b": [
+      "A28"
+    ],
+    "wwii_d687443a146bfc91": [
+      "A25"
+    ],
+    "wwii_ec6c588dc14d4834": [
+      "A23"
+    ],
+    "wwii_d03199d822e4de70": [
+      "A27"
+    ],
+    "wwii_4fbdc2f351321497": [
+      "A25"
+    ],
+    "wwii_477d9ff7d65f7928": [
+      "A23"
+    ],
+    "wwii_cc8d4b7783d61195": [
+      "A27"
+    ],
+    "wwii_4303966e03a07d7f": [
+      "A28"
+    ],
+    "wwii_45a15a1f9a4e4461": [
+      "A25"
+    ],
+    "wwii_97c18e50d4487c70": [
+      "A23"
+    ],
+    "wwii_f40a79963c6b787f": [
+      "A27"
+    ],
+    "wwii_808871a56651b129": [
+      "A28"
+    ],
+    "wwii_7fafc3a4324bf2d5": [
+      "A23",
+      "A25"
+    ],
+    "wwii_9681f121c359bf60": [
+      "A23"
+    ],
+    "wwii_f50715d950ae5d0a": [
+      "A27"
+    ],
+    "wwii_50a2086cf94f3bbd": [
+      "A28"
+    ],
+    "wwii_08fcb5b2bea12a2f": [
+      "A25"
+    ],
+    "wwii_dae1a0f3165f5b30": [
+      "A23"
+    ],
+    "wwii_b2aa4a8e43288dcc": [
+      "A27"
+    ],
+    "wwii_364dc35b46407248": [
+      "A28"
+    ],
+    "wwii_5cfd548bd33a042d": [
+      "A25"
+    ],
+    "wwii_9b0a399661033502": [
+      "A23"
+    ],
+    "wwii_bbe9ae7c85d450b9": [
+      "A27"
+    ],
+    "wwii_748084c168795d0b": [
+      "A28"
+    ],
+    "wwii_867d46b784172d9f": [
+      "A25"
+    ],
+    "wwii_30617bc89937b5bd": [
+      "A27"
+    ],
+    "wwii_6e4efd27223ab0aa": [
+      "A28"
+    ],
+    "wwii_bdefb606dfdb519b": [
+      "A25"
+    ],
+    "wwii_d977a923054c498a": [
+      "A23"
+    ],
+    "wwii_f997bc14e14bb8ce": [
+      "A27"
+    ],
+    "wwii_49e46919119ac357": [
+      "A28"
+    ],
+    "wwii_3914d572b443ce14": [
+      "A25"
+    ],
+    "wwii_49679ee8608e50d0": [
+      "A23"
+    ],
+    "wwii_19eabeb8dcd7d13a": [
+      "A27"
+    ],
+    "wwii_412e160f4cbb53b1": [
+      "A28"
+    ],
+    "wwii_932903dfd1d12776": [
+      "A23",
+      "A25"
+    ],
+    "wwii_71f8e65313d1f3a7": [
+      "A23"
+    ],
+    "wwii_c45781c63b3bac09": [
+      "A27"
+    ],
+    "wwii_5705771a9d9469a7": [
+      "A28"
+    ],
+    "wwii_784fc8a8ff4b58ab": [
+      "A25"
+    ],
+    "wwii_823082fc5d932116": [
+      "A23"
+    ],
+    "wwii_c00df571521b5563": [
+      "A27"
+    ],
+    "wwii_ce3d0e4ab2758306": [
+      "A28"
+    ],
+    "wwii_ea57c1e51790040a": [
+      "A25"
+    ],
+    "wwii_11a19ce41c22c0b2": [
+      "A23"
+    ],
+    "wwii_2baf3b0f208ee682": [
+      "A27"
+    ],
+    "wwii_663f40cdd00ffded": [
+      "A28"
+    ],
+    "wwii_e87d12b6f5cdf511": [
+      "A23",
+      "A25"
+    ],
+    "wwii_3ca51d6b3aa3b317": [
+      "A27"
+    ],
+    "wwii_1232afa4a74ce864": [
+      "A28"
+    ],
+    "wwii_73fda5a0ed106e9a": [
+      "A25"
+    ],
+    "wwii_71639b4dd0decf18": [
+      "A23"
+    ],
+    "wwii_716f002458f25fc1": [
+      "A27"
+    ],
+    "wwii_6e0c3ee5dc362cf5": [
+      "A28"
+    ],
+    "wwii_8bd0b85b0e126f73": [
+      "A25"
+    ],
+    "wwii_5b7be3f7e10f9bb9": [
+      "A23"
+    ],
+    "wwii_72552036af98a52f": [
+      "A27"
+    ],
+    "wwii_ea98700c1ebfe873": [
+      "A28"
+    ],
+    "wwii_1b90ac19d93d7c28": [
+      "A25"
+    ],
+    "wwii_67d3f772fdedd653": [
+      "A23"
+    ],
+    "wwii_9ba3251c1826eb21": [
+      "A27"
+    ],
+    "wwii_eb4575ca9a264f8e": [
+      "A28"
+    ],
+    "wwii_5d0293913460f13c": [
+      "A25"
+    ],
+    "wwii_65dd09406fca9c87": [
+      "A27"
+    ],
+    "wwii_45943107d9099d09": [
+      "A28"
+    ],
+    "wwii_ccdca23c9da7744a": [
+      "A25"
+    ],
+    "wwii_2433a7790c43fc05": [
+      "A23"
+    ],
+    "wwii_5fe1a4be2bf5a09b": [
+      "A27"
+    ],
+    "wwii_fd603d0bb999d028": [
+      "A28"
+    ],
+    "wwii_d3af7cccc1d2b923": [
+      "A25"
+    ],
+    "wwii_d951438bbcad5cd3": [
+      "A23"
+    ],
+    "wwii_6b20d73ca81594a3": [
+      "A27"
+    ],
+    "wwii_c52caf56db8c7ab4": [
+      "A28"
+    ],
+    "wwii_abda1b30c123f95d": [
+      "A25"
+    ],
+    "wwii_5c8bad35640b7810": [
+      "A27"
+    ],
+    "wwii_301eab7f09cd9e78": [
+      "A25"
+    ],
+    "wwii_28640f3f17637876": [
+      "A23"
+    ],
+    "wwii_b265a78fe5615759": [
+      "A27"
+    ],
+    "wwii_19854395abaf73d5": [
+      "A25"
+    ],
+    "wwii_68e2eb516cc83d2a": [
+      "A23"
+    ],
+    "wwii_fbade2c3d52f5b1d": [
+      "A27"
+    ],
+    "wwii_6b25450c57bdf6a9": [
+      "A25"
+    ],
+    "wwii_6ffabd1dc1da5541": [
+      "A23"
+    ],
+    "wwii_5e7ba0be163d31ce": [
+      "A27"
+    ],
+    "wwii_d021cd0c58099a07": [
+      "A25"
+    ],
+    "wwii_42630d963f660c00": [
+      "A23",
+      "A27"
+    ],
+    "wwii_159081b5eba4c16a": [
+      "A27"
+    ],
+    "wwii_27fcea9a23a79fe4": [
+      "A25"
+    ],
+    "wwii_3527ad4e0289783d": [
+      "A23"
+    ],
+    "wwii_ad78ca8f93c48ca3": [
+      "A27"
+    ],
+    "wwii_984950931bf28e52": [
+      "A25"
+    ],
+    "wwii_3a34bb71db84e187": [
+      "A23"
+    ],
+    "wwii_60ce6ecd61c3f1b6": [
+      "A27"
+    ],
+    "wwii_f067a86a0ecb18a5": [
+      "A25"
+    ],
+    "wwii_5f12063755348db4": [
+      "A23"
+    ],
+    "wwii_1999ba4317384d18": [
+      "A27"
+    ],
+    "wwii_1bde4e6332a058dd": [
+      "A25"
+    ],
+    "wwii_eedc826c7e6a1289": [
+      "A23"
+    ],
+    "wwii_de3fe51ed980d58a": [
+      "A27"
+    ],
+    "wwii_8b9b01e9cecc46ed": [
+      "A25"
+    ],
+    "wwii_9b6e1bed2df7ad89": [
+      "A23"
+    ],
+    "wwii_33ce6817f650ab78": [
+      "A27"
+    ],
+    "wwii_960abdfc14e9462b": [
+      "A23",
+      "A25"
+    ],
+    "wwii_2d84e81fd2275943": [
+      "A23"
+    ],
+    "wwii_5941726c342e8af0": [
+      "A27"
+    ],
+    "wwii_8307071d14e7c0c0": [
+      "A25"
+    ],
+    "wwii_d3b15230b551b8bd": [
+      "A23"
+    ],
+    "wwii_7bee1fbf49760326": [
+      "A27"
+    ],
+    "wwii_b969c6e3a1d5c5c3": [
+      "A23",
+      "A25"
+    ],
+    "wwii_e671104f796be9ae": [
+      "A23"
+    ],
+    "wwii_316e9d4a8e0827c0": [
+      "A27"
+    ],
+    "wwii_881be5547c85d52f": [
+      "A25"
+    ],
+    "wwii_1771fbcc1e5eb90b": [
+      "A23"
+    ],
+    "wwii_4e0b8e191e8e7b3b": [
+      "A25"
+    ],
+    "wwii_b257932e18f79ef8": [
+      "A23"
+    ],
+    "wwii_e00cf833bc0ce9f5": [
+      "A27"
+    ],
+    "wwii_6e17fa7a81907d43": [
+      "A25"
+    ],
+    "wwii_774434bc78330d69": [
+      "A23"
+    ],
+    "wwii_73e47ca4668352a5": [
+      "A27"
+    ],
+    "wwii_cfef3619a66f9765": [
+      "A25"
+    ],
+    "wwii_8e4ba278aea3392c": [
+      "A23"
+    ],
+    "wwii_5986d81d4d3e7395": [
+      "A27"
+    ],
+    "wwii_b3c4e62a34009c81": [
+      "A23",
+      "A25"
+    ],
+    "wwii_146dd87dbaf5f290": [
+      "A27"
+    ],
+    "wwii_ebd4ebba2c78976d": [
+      "A25"
+    ],
+    "wwii_5d03105c2eaa0148": [
+      "A23"
+    ],
+    "wwii_7458de36f348cdaf": [
+      "A27"
+    ],
+    "wwii_45c67708535340f9": [
+      "A25"
+    ],
+    "wwii_47da1f987e56f013": [
+      "A23"
+    ],
+    "wwii_8f0bf201123bb5f7": [
+      "A27"
+    ],
+    "wwii_4970a4f1488d1ee2": [
+      "A25"
+    ],
+    "wwii_86c8abaa006c47c6": [
+      "A27"
+    ],
+    "wwii_323f0c842594475a": [
+      "A25"
+    ],
+    "wwii_ccaa93a5f5616d1f": [
+      "A23"
+    ],
+    "wwii_667f1b28fe69f39e": [
+      "A27"
+    ],
+    "wwii_5231226925ddd517": [
+      "A25"
+    ],
+    "wwii_a6dde827cb581c92": [
+      "A23"
+    ],
+    "wwii_4ac13b37843f82cc": [
+      "A27"
+    ],
+    "wwii_42eca80d3a0b4178": [
+      "A25"
+    ],
+    "wwii_755c56d33ffcfce6": [
+      "A23"
+    ],
+    "wwii_7a86c538c91fbea3": [
+      "A27"
+    ],
+    "wwii_a1bb0b3069cd5f63": [
+      "A25"
+    ],
+    "wwii_3de20e412f16ab5e": [
+      "A27"
+    ],
+    "wwii_192026d2d1c206d8": [
+      "A25"
+    ],
+    "wwii_f971734c018fd606": [
+      "A23"
+    ],
+    "wwii_007642240c43e834": [
+      "A27"
+    ],
+    "wwii_ab6227e17e0529ad": [
+      "A25"
+    ],
+    "wwii_b700badb3d298f6e": [
+      "A23"
+    ],
+    "wwii_7612e657601126a7": [
+      "A27"
+    ],
+    "wwii_a62d9c810ae73950": [
+      "A25"
+    ],
+    "wwii_e39676a7740f633c": [
+      "A23"
+    ],
+    "wwii_539cfdf8685d8b57": [
+      "A27"
+    ],
+    "wwii_3e0db66e096841ec": [
+      "A25"
+    ],
+    "wwii_763550ea85052b0e": [
+      "A23"
+    ],
+    "wwii_4c14985bbbd3ab92": [
+      "A27"
+    ],
+    "wwii_a3452a454d6eb9e8": [
+      "A25"
+    ],
+    "wwii_7ef38906c9dd212f": [
+      "A23",
+      "A25"
+    ],
+    "wwii_385b136a998a8d6d": [
+      "A27"
+    ],
+    "wwii_9acfa95f0ba9cf09": [
+      "A25"
+    ],
+    "wwii_fe4b958e022d71eb": [
+      "A23"
+    ],
+    "wwii_93f14f47ccd67402": [
+      "A27"
+    ],
+    "wwii_193661170480c8c6": [
+      "A25"
+    ],
+    "wwii_a19d714e3b3baf51": [
+      "A23"
+    ],
+    "wwii_4ed75319fe409fe6": [
+      "A27"
+    ],
+    "wwii_9cfd0babf3496301": [
+      "A25"
+    ],
+    "wwii_b9125b28a3b9c62a": [
+      "A23"
+    ],
+    "wwii_151d6de1b0dfcf66": [
+      "A27"
+    ],
+    "wwii_fb189c28ba37ac79": [
+      "A25"
+    ],
+    "wwii_1514e84f9c34e174": [
+      "A23"
+    ],
+    "wwii_7325689028a12690": [
+      "A27"
+    ],
+    "wwii_258d349b4ff77f25": [
+      "A25"
+    ],
+    "wwii_a77618fc11109c98": [
+      "A23"
+    ],
+    "wwii_013efb3fff16596f": [
+      "A27"
+    ],
+    "wwii_0d0b61ecaee74c88": [
+      "A25"
+    ],
+    "wwii_7583bfa5c3ec830c": [
+      "A23"
+    ],
+    "wwii_e303dd0081d897f8": [
+      "A27"
+    ],
+    "wwii_50609215c690d93b": [
+      "A25"
+    ],
+    "wwii_11b3e84a12d27090": [
+      "A23"
+    ],
+    "wwii_e0840f56cf0c2e6d": [
+      "A27"
+    ],
+    "wwii_737fcac83cdac651": [
+      "A25"
+    ],
+    "wwii_45bfb11a27e92a69": [
+      "A23"
+    ],
+    "wwii_0eb57b1ab66c92aa": [
+      "A27"
+    ],
+    "wwii_aea981d1b23bce04": [
+      "A25"
+    ],
+    "wwii_e3ce25a9977e14a0": [
+      "A23"
+    ],
+    "wwii_f823dc919b345a18": [
+      "A27"
+    ],
+    "wwii_78a0320fb3b69c49": [
+      "A25"
+    ],
+    "wwii_8a085b0ff89492c9": [
+      "A23"
+    ],
+    "wwii_8ce4a2ad4a544c83": [
+      "A27"
+    ],
+    "wwii_1033f89528dd39a2": [
+      "A25"
+    ],
+    "wwii_cea2264b698df040": [
+      "A23"
+    ],
+    "wwii_41228ee92ccc0ec9": [
+      "A27"
+    ],
+    "wwii_f23c4c066cb5c8e9": [
+      "A25"
+    ],
+    "wwii_837a092ca789842b": [
+      "A23"
+    ],
+    "wwii_80d2bf75cabb818d": [
+      "A27"
+    ],
+    "wwii_6e2e56aa2e427e02": [
+      "A23",
+      "A25"
+    ],
+    "wwii_97ebf9e914908d09": [
+      "A23"
+    ],
+    "wwii_9b4d2a66737d88a1": [
+      "A27"
+    ],
+    "wwii_b4b945c6c4b41cbf": [
+      "A25"
+    ],
+    "wwii_1bc04464b63216d5": [
+      "A23"
+    ],
+    "wwii_306904026f01a208": [
+      "A27"
+    ],
+    "wwii_bbb45af6e93bd73b": [
+      "A25"
+    ],
+    "wwii_a44bf428caf99ca8": [
+      "A23"
+    ],
+    "wwii_62fc081dad6ee815": [
+      "A27"
+    ],
+    "wwii_90651d29babb2c19": [
+      "A25"
+    ],
+    "wwii_8e93b3f29de07d63": [
+      "A23"
+    ],
+    "wwii_4b7d7965dc78f926": [
+      "A27"
+    ],
+    "wwii_ab5120c3feba7bb2": [
+      "A23",
+      "A25"
+    ],
+    "wwii_ea9ad3f8b64013ad": [
+      "A23"
+    ],
+    "wwii_42f19ee1c469d199": [
+      "A27"
+    ],
+    "wwii_b0aa01685e9fabe5": [
+      "A25"
+    ],
+    "wwii_afe8b13d05a55dc7": [
+      "A23"
+    ],
+    "wwii_398c60fad380f9a3": [
+      "A27"
+    ],
+    "wwii_371ba43feaa4fa23": [
+      "A25"
+    ],
+    "wwii_a5a5fdbf9a05ac1a": [
+      "A23"
+    ],
+    "wwii_5049cef9c7ca1f6f": [
+      "A27"
+    ],
+    "wwii_b385a85826f2561f": [
+      "A25"
+    ],
+    "wwii_bcaf04e85462e26d": [
+      "A23"
+    ],
+    "wwii_54b5995519dd53e8": [
+      "A27"
+    ],
+    "wwii_1b1a1bebcd7ea9d0": [
+      "A25"
+    ],
+    "wwii_2bb4602f744810c8": [
+      "A23"
+    ],
+    "wwii_bb83967cdc8e0db5": [
+      "A27"
+    ],
+    "wwii_3157d9eeeac2591a": [
+      "A25"
+    ],
+    "wwii_e7644516e2e27aaf": [
+      "A23"
+    ],
+    "wwii_50b188d9537d24e7": [
+      "A27"
+    ],
+    "wwii_bbe3936bae965d47": [
+      "A25"
+    ],
+    "wwii_304c9ab4e0ee3da6": [
+      "A23"
+    ],
+    "wwii_c045e42191dbcc94": [
+      "A27"
+    ],
+    "wwii_d7093729589e2e46": [
+      "A25"
+    ],
+    "wwii_d4dac385032baf68": [
+      "A23"
+    ],
+    "wwii_4e1ec2ce70c67b16": [
+      "A27"
+    ],
+    "wwii_201045459fee87d0": [
+      "A25"
+    ],
+    "wwii_4bbdb45c28d53468": [
+      "A23"
+    ],
+    "wwii_6fca5c54e53808be": [
+      "A27"
+    ],
+    "wwii_f1fe7f2c8e0738ef": [
+      "A23"
+    ],
+    "wwii_d5c22092dd52bc07": [
+      "A27"
+    ],
+    "wwii_3bd36c1a2167b945": [
+      "A25"
+    ],
+    "wwii_c3b5aaf42204e21c": [
+      "A23"
+    ],
+    "wwii_64d7ef39c7aaee18": [
+      "A27"
+    ],
+    "wwii_4c8c363a1894a834": [
+      "A25"
+    ],
+    "wwii_0aa6dba3ac872388": [
+      "A23"
+    ],
+    "wwii_662104512060ae07": [
+      "A27"
+    ],
+    "wwii_befd921c0c0884de": [
+      "A25"
+    ],
+    "wwii_a10002098846879b": [
+      "A23"
+    ],
+    "wwii_0140d62b769be5ec": [
+      "A27"
+    ],
+    "wwii_2d89a451f5e6b060": [
+      "A25"
+    ],
+    "wwii_284b8141ce185656": [
+      "A27"
+    ],
+    "wwii_f13d8f814169eaee": [
+      "A25"
+    ],
+    "wwii_3e2f9778a1ae62cb": [
+      "A23"
+    ],
+    "wwii_132d4a44225a680e": [
+      "A27"
+    ],
+    "wwii_f19132eb0b0e189f": [
+      "A25"
+    ],
+    "wwii_d9fbe8d35310eb46": [
+      "A23"
+    ],
+    "wwii_d7fd82ae1200abcc": [
+      "A27"
+    ],
+    "wwii_e3e35d13ed1976b0": [
+      "A25"
+    ],
+    "wwii_6535626720d60d88": [
+      "A23"
+    ],
+    "wwii_e95dd3631ca421fb": [
+      "A27"
+    ],
+    "wwii_48e5251755287517": [
+      "A25"
+    ],
+    "wwii_75855f619ad5f3b2": [
+      "A23"
+    ],
+    "wwii_3eb5c1abab6f12ae": [
+      "A27"
+    ],
+    "wwii_da0d3a9ef477d287": [
+      "A25"
+    ],
+    "wwii_28387c21bbf5e415": [
+      "A27"
+    ],
+    "wwii_4e231623178b900d": [
+      "A25"
+    ],
+    "wwii_d2469ad4b3b4184e": [
+      "A23"
+    ],
+    "wwii_ee40250d5253b68e": [
+      "A27"
+    ],
+    "wwii_4a5a14d9397cbe85": [
+      "A25"
+    ],
+    "wwii_16d712ea6ce04cf6": [
+      "A23"
+    ],
+    "wwii_9f7cdaac8a7e8d34": [
+      "A27"
+    ],
+    "wwii_fefc1f2a7547fc43": [
+      "A25"
+    ],
+    "wwii_f605e894bd77ae6a": [
+      "A23"
+    ],
+    "wwii_ab88b91a64125a3c": [
+      "A27"
+    ],
+    "wwii_e5d5f5cec3114a3f": [
+      "A25"
+    ],
+    "wwii_47f712054e2a785d": [
+      "A23"
+    ],
+    "wwii_11bee85d50ec1227": [
+      "A27"
+    ],
+    "wwii_db47ac8d5a33c45a": [
+      "A25"
+    ],
+    "wwii_618d8a1e5c7bf249": [
+      "A23"
+    ],
+    "wwii_7d781aa3a9118399": [
+      "A27"
+    ],
+    "wwii_c01883999abd862f": [
+      "A25"
+    ],
+    "wwii_038370fae4aa848a": [
+      "A23"
+    ],
+    "wwii_656dd279e72dc35b": [
+      "A27"
+    ],
+    "wwii_97b22b7dfa771ca7": [
+      "A25"
+    ],
+    "wwii_7bbab1662596c761": [
+      "A23"
+    ],
+    "wwii_8264e13fd1903c46": [
+      "A27"
+    ],
+    "wwii_90a2fab903461fea": [
+      "A25"
+    ],
+    "wwii_72d0b005369371e1": [
+      "A23"
+    ],
+    "wwii_fc6a773c3adf1d52": [
+      "A27"
+    ],
+    "wwii_b928667864ca6fab": [
+      "A25"
+    ],
+    "wwii_6f7e522adbf64d76": [
+      "A23"
+    ],
+    "wwii_17c24a01d51119be": [
+      "A27"
+    ],
+    "wwii_251ec87acb035241": [
+      "A25"
+    ],
+    "wwii_851f34f8e7769788": [
+      "A23"
+    ],
+    "wwii_f3b25f2a8b88ee05": [
+      "A27"
+    ],
+    "wwii_4a7b618be84365fc": [
+      "A25"
+    ],
+    "wwii_46e9d2c6f2ed8792": [
+      "A23"
+    ],
+    "wwii_626577db2836dda3": [
+      "A27"
+    ],
+    "wwii_7f2d6676d85401aa": [
+      "A25"
+    ],
+    "wwii_8f58b6ecd9918efb": [
+      "A25"
+    ],
+    "wwii_65778d042204f0b3": [
+      "A25"
+    ],
+    "wwii_8e0489a45203e6b5": [
+      "A25"
+    ],
+    "wwii_16f2a3f1e958a9a1": [
+      "A25"
+    ],
+    "wwii_2094ed0f5967f327": [
+      "A25"
+    ],
+    "wwii_febe76500195d3ec": [
+      "A25"
+    ],
+    "wwii_8433615b574dbf1a": [
+      "A25"
+    ],
+    "wwii_deb3fb694e5a8f5b": [
+      "A25"
+    ],
+    "wwii_40b4be199c7afef7": [
+      "A25"
+    ],
+    "wwii_8bc7458ad050bcef": [
+      "A25"
+    ],
+    "wwii_37d3c77fc046a5fc": [
+      "A25"
+    ],
+    "wwii_53ced0c1abd30f1e": [
+      "A25"
+    ],
+    "wwii_ed66d07cef20723b": [
+      "A25"
+    ],
+    "wwii_587b6214781bf569": [
+      "A25"
+    ],
+    "wwii_3d0787a8e1a25078": [
+      "A25"
+    ],
+    "wwii_383251bb2d56d460": [
+      "A25"
+    ],
+    "wwii_e7a43bc5bd846f92": [
+      "A25"
+    ],
+    "wwii_d9606dc92625d01d": [
+      "A25"
+    ],
+    "wwii_1b9b9fd39d85a062": [
+      "A25"
+    ],
+    "wwii_be6ef6c02f81c843": [
+      "A25"
+    ],
+    "wwii_b5e9a8374c2defcb": [
+      "A25"
+    ],
+    "wwii_4c71ac139ea509a9": [
+      "A25"
+    ],
+    "wwii_e4d5202b8c3ec531": [
+      "A25"
+    ],
+    "wwii_4df1cdcfd83ceb7d": [
+      "A25"
+    ],
+    "wwii_e37aac0360500132": [
+      "A25"
+    ],
+    "wwii_9eb20321ab3f4b88": [
+      "A25"
+    ],
+    "wwii_2aff0167990a819e": [
+      "A25"
+    ],
+    "wwii_490d3ec9e1c60cca": [
+      "A25"
+    ],
+    "wwii_8ea37b75a30a304c": [
+      "A25"
+    ],
+    "wwii_98d165e743fe2103": [
+      "A25"
+    ]
+  },
+  "limitation": "Keyword hints guide retrieval only. Every added passage still needs semantic labeling against all anchors. Enrichment changes label prevalence and does not guarantee coverage."
+}

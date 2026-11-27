@@ -1,0 +1,202 @@
+{
+  "EFA": {
+    "code": "A01",
+    "id": "eastern_front_attrition_logistics",
+    "name": "Eastern Front attrition and logistics"
+  },
+  "SIE": {
+    "code": "A02",
+    "id": "siege_encirclement_warfare",
+    "name": "Siege and encirclement warfare"
+  },
+  "PAC": {
+    "code": "A03",
+    "id": "pacific_amphibious_campaigns",
+    "name": "Pacific island and amphibious campaigns"
+  },
+  "ATL": {
+    "code": "A04",
+    "id": "atlantic_convoy_warfare",
+    "name": "Battle of the Atlantic and convoy warfare"
+  },
+  "BMB": {
+    "code": "A05",
+    "id": "strategic_bombing_campaigns",
+    "name": "Strategic bombing as an operational campaign"
+  },
+  "DDY": {
+    "code": "A06",
+    "id": "normandy_landings",
+    "name": "D-Day and the Normandy landings"
+  },
+  "APP": {
+    "code": "A07",
+    "id": "appeasement_germany",
+    "name": "Appeasement of Germany in the 1930s"
+  },
+  "MUN": {
+    "code": "A08",
+    "id": "munich_agreement",
+    "name": "Munich Agreement and Czechoslovakia"
+  },
+  "NSP": {
+    "code": "A09",
+    "id": "nazi_soviet_pact_fallout",
+    "name": "Nazi-Soviet Pact (Molotov-Ribbentrop Pact) and its fallout"
+  },
+  "USN": {
+    "code": "A10",
+    "id": "us_neutrality_intervention",
+    "name": "US shift from neutrality to intervention"
+  },
+  "JEX": {
+    "code": "A11",
+    "id": "japanese_expansionism",
+    "name": "Japanese expansionism and the road to the Pacific war"
+  },
+  "ACD": {
+    "code": "A12",
+    "id": "allied_coalition_diplomacy",
+    "name": "Allied coalition diplomacy (Tehran, Yalta)"
+  },
+  "PWS": {
+    "code": "A13",
+    "id": "postwar_settlement_planning",
+    "name": "Postwar settlement planning"
+  },
+  "PJW": {
+    "code": "A14",
+    "id": "persecution_jews_before_war",
+    "name": "Persecution of Jews before the war"
+  },
+  "HOL": {
+    "code": "A15",
+    "id": "holocaust_extermination_camps",
+    "name": "The Holocaust and extermination camps"
+  },
+  "OCC": {
+    "code": "A16",
+    "id": "occupation_civilian_reprisals",
+    "name": "Occupation policy and civilian reprisals"
+  },
+  "COL": {
+    "code": "A17",
+    "id": "collaboration_resistance",
+    "name": "Collaboration vs. resistance in occupied Europe"
+  },
+  "POW": {
+    "code": "A18",
+    "id": "pow_treatment",
+    "name": "Treatment of prisoners of war"
+  },
+  "FLB": {
+    "code": "A19",
+    "id": "forced_labor",
+    "name": "Forced labor"
+  },
+  "WCP": {
+    "code": "A20",
+    "id": "war_crimes_prosecution",
+    "name": "War crimes prosecution (Nuremberg, Tokyo)"
+  },
+  "MOB": {
+    "code": "A21",
+    "id": "mobilization_industry",
+    "name": "Mobilization of industry for war production"
+  },
+  "LND": {
+    "code": "A22",
+    "id": "lend_lease_supply",
+    "name": "Lend-Lease and allied supply"
+  },
+  "BLK": {
+    "code": "A23",
+    "id": "blockade_resource_scarcity",
+    "name": "Blockade and resource scarcity"
+  },
+  "EXP": {
+    "code": "A24",
+    "id": "axis_exploitation_occupied_economies",
+    "name": "Axis exploitation of occupied economies"
+  },
+  "OIL": {
+    "code": "A25",
+    "id": "oil_fuel_constraints",
+    "name": "Oil and fuel constraints on operations"
+  },
+  "AIR": {
+    "code": "A26",
+    "id": "aircraft_shipbuilding_output",
+    "name": "Aircraft and shipbuilding output"
+  },
+  "CHR": {
+    "code": "A27",
+    "id": "churchill_rhetoric_public_morale",
+    "name": "Churchill’s rhetoric and public morale"
+  },
+  "HIT": {
+    "code": "A28",
+    "id": "hitler_interference_military_command",
+    "name": "Hitler’s interference in military command"
+  },
+  "ACC": {
+    "code": "A29",
+    "id": "allied_command_coordination",
+    "name": "Allied command coordination"
+  },
+  "STP": {
+    "code": "A30",
+    "id": "stalin_purges_red_army",
+    "name": "Stalin’s purges and the Red Army"
+  },
+  "COD": {
+    "code": "A31",
+    "id": "codebreaking_ultra",
+    "name": "Codebreaking (Enigma, Ultra)"
+  },
+  "ESP": {
+    "code": "A32",
+    "id": "espionage_deception",
+    "name": "Espionage and deception operations"
+  },
+  "ATM": {
+    "code": "A33",
+    "id": "atomic_bomb_development",
+    "name": "Atomic bomb development"
+  },
+  "RAD": {
+    "code": "A34",
+    "id": "radar_air_defense",
+    "name": "Radar and air defense"
+  },
+  "VWP": {
+    "code": "A35",
+    "id": "rocketry_v_weapons",
+    "name": "Rocketry and V-weapons"
+  },
+  "RAT": {
+    "code": "A36",
+    "id": "rationing_civilian_austerity",
+    "name": "Rationing and civilian austerity"
+  },
+  "WOM": {
+    "code": "A37",
+    "id": "women_wartime_labor",
+    "name": "Women’s wartime labor"
+  },
+  "CIV": {
+    "code": "A38",
+    "id": "civilian_bombing_sheltering",
+    "name": "Civilian experience of bombing and sheltering"
+  },
+  "PRP": {
+    "code": "A39",
+    "id": "propaganda_information_control",
+    "name": "Propaganda and information control"
+  },
+  "JAI": {
+    "code": "A40",
+    "id": "japanese_american_internment",
+    "name": "Japanese American internment"
+  }
+}

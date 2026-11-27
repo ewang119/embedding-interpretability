@@ -1,0 +1,18 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Be_Ye_Men_of_Valour",
+  "title": "Be Ye Men of Valour",
+  "paragraphs": [
+    "Be Ye Men of Valour was a wartime speech made in a BBC broadcast on 19 May 1940 by Prime Minister of the United Kingdom Winston Churchill . It was his first speech to the nation as Prime Minister, and came nine days after his appointment, during the Battle of France in the second year of World War II . The speech concludes with a quotation from the Apocrypha , which supplies the phrase by which the speech became known:"
+  ],
+  "sections": [
+    "Contents"
+  ],
+  "links": [],
+  "sha256": "c4d8dbde5d1823826c00ed3293b331fdfcbbeb1a1eace5d2d7c6965053716c3d",
+  "retrieved_utc": "2026-11-17T17:29:12Z",
+  "http_status": 200,
+  "source_license": "CC BY-SA 4.0",
+  "attribution": "Wikipedia contributors, Be Ye Men of Valour",
+  "revision_id": "1328990170",
+  "extraction_note": "Paragraph text only; citation markers removed; whitespace normalized; tables, captions, quotes excluded."
+}

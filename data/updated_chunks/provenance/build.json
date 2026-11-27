@@ -1,0 +1,7 @@
+{
+  "base_commit": "7865fba4e29b427db11242eefe15266404a34a50",
+  "source_pool": "wwii_corpus local build output",
+  "provided_inputs": "raw/",
+  "canonical_working_data": "../passages.jsonl",
+  "label_status": "AI drafts; no human-approved labels"
+}

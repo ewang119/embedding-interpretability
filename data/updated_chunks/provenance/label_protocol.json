@@ -1,0 +1,40 @@
+{
+  "primary_model": "gpt-5-mini-2025-08-07",
+  "secondary_model": "gpt-4.1-mini-2025-04-14",
+  "prompt_version": 5,
+  "task_budget_usd": 4.5,
+  "pricing_usd_per_million_tokens": {
+    "gpt-4.1-mini-2025-04-14": {
+      "input": 0.4,
+      "cached_input": 0.1,
+      "output": 1.6
+    },
+    "gpt-5-mini-2025-08-07": {
+      "input": 0.25,
+      "cached_input": 0.025,
+      "output": 2.0
+    }
+  },
+  "pricing_sources": [
+    "https://developers.openai.com/api/docs/models/gpt-5-mini",
+    "https://developers.openai.com/api/docs/models/gpt-4.1-mini"
+  ],
+  "prompt_sha256": {
+    "primary_prompt.txt": "73595eb4e60b1975ca260aa1e17b57e71b9a4f419cd1a4f1cb335cdf40606858",
+    "secondary_prompt.txt": "3028ccb1af8f878c4fac39f8f9bedf4468ccec8c2211df5dfba28f401d71908a"
+  },
+  "secondary_sample": {
+    "passages": 2000,
+    "source_balanced": true,
+    "seed": 674
+  },
+  "human_gold": false,
+  "meaning": "Model disagreements are review flags, not accuracy estimates.",
+  "secondary_final_crosscheck": {
+    "passages": 10837,
+    "entire_final_selection": true
+  },
+  "embedding_model": "text-embedding-3-small",
+  "embedding_dimensions": 1536,
+  "embedding_input_price_per_million_tokens_usd": 0.02
+}

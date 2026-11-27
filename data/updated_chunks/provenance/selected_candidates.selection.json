@@ -1,0 +1,14 @@
+{
+  "candidate_sha256": "7219c39aa82e6388c074b21ef507eda0101922faf9a52d478928efa47ddc64c2",
+  "selection_sha256": "b0f8c094b732085c14affd193261f21ec78f19e8b8cbb795a130a3d5f07a5488",
+  "candidates": 25315,
+  "selected": 10000,
+  "target": 10000,
+  "seed": 673,
+  "source_articles": 275,
+  "minimum_per_source": 1,
+  "maximum_per_source": 44,
+  "keyword_hints_used": false,
+  "method": "Round-robin by article; deterministic hash order within each article.",
+  "sampling_limitation": "Source-balanced sample, not a natural-frequency estimate of WWII topics."
+}

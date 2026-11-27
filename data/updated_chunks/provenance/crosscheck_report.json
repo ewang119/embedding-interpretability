@@ -1,0 +1,20 @@
+{
+  "completed": 10837,
+  "requested": 10837,
+  "model": "gpt-4.1-mini-2025-04-14",
+  "anchor_sha256": "b3fefbfd15adab56a4c13f377fcfe5bdcd880c0e2ca054ef35b6aac1c3a39e40",
+  "candidate_sha256": "7754a3115ee255d7767fb153484c8f21925cf66edcbe801bae6ddfd85e00ead4",
+  "prompt_version": 5,
+  "all_requested_complete": true,
+  "usable": 10836,
+  "needs_judgment_review": 388,
+  "budget": {
+    "budget_usd": 4.5,
+    "accounted_usd": 4.302354,
+    "reported_usage_usd": 4.271887,
+    "requests": 769,
+    "unsettled_requests_at_reserved_maximum": 1,
+    "note": "Task token-cost accounting; not an account-wide billing statement."
+  },
+  "stopped_reason": null
+}

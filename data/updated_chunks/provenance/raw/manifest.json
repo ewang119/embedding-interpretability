@@ -1,0 +1,10 @@
+{
+  "chunks.jsonl": {
+    "sha256": "4107009a2846a7b2dcd836c8b74905f08d626e637277a545bb5d90554cac0fb3",
+    "bytes": 19582458
+  },
+  "anchor_index.json": {
+    "sha256": "e8dc5d265a4f66eaccbf049301d4ebcefe1d443c59b40ec49bcbbdd29aad85cd",
+    "bytes": 12522072
+  }
+}

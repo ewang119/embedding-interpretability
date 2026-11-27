@@ -1,0 +1,18 @@
+{
+  "added": 44,
+  "verified_snapshot_passages": 22,
+  "total": 10837,
+  "skipped": [
+    {
+      "chunk_id": "wwii_84f0446af3510fa1",
+      "reason": "heldout_article"
+    },
+    {
+      "chunk_id": "wwii_f06850d9684f4f31",
+      "reason": "heldout_article"
+    }
+  ],
+  "pilot_input_sha256": "63139f567a9bdaa2e2bbd8a58851bb5f2b80334aeca0e9083e78dc96bbab99e4",
+  "selection_sha256": "7754a3115ee255d7767fb153484c8f21925cf66edcbe801bae6ddfd85e00ead4",
+  "policy": "Text reused as a training-only supplement; old labels are retrieval hints only and are re-evaluated against all 40 anchors."
+}

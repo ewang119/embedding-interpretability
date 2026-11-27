@@ -1,0 +1,37 @@
+{
+  "preparation_version": 1,
+  "nltk_version": "3.9.2",
+  "raw_records": 10423,
+  "cleaned_passages": 25315,
+  "source_articles": 275,
+  "sentence_counts": {
+    "2": 17420,
+    "3": 7895
+  },
+  "minimum_words": 25,
+  "maximum_words": 70,
+  "maximum_passages_per_article": 355,
+  "discarded_items_by_reason": {
+    "sentence_already_in_pilot": 149,
+    "no_eligible_standalone_span": 739,
+    "already_in_pilot": 147,
+    "repeated_source_sentence": 192,
+    "reference_or_navigation_section": 19,
+    "duplicate_text": 14
+  },
+  "candidate_window_failures": {
+    "word_length": 30655,
+    "unresolved_opening_pronoun": 4356,
+    "mostly_numbers_or_symbols": 4,
+    "incomplete_ending": 318,
+    "no_verbal_clause": 133,
+    "order_of_battle_list": 2,
+    "reference_or_navigation_text": 8
+  },
+  "unused_sentences": 9648,
+  "all_labels_unreviewed": true,
+  "keyword_hints_are_labels": false,
+  "source_verification": "Exact spans in the supplied batch; original webpage revisions not independently verified.",
+  "source_cap_policy": "No 3-per-article cap; sources must stay whole in future splits.",
+  "snapshot_sha256": "7219c39aa82e6388c074b21ef507eda0101922faf9a52d478928efa47ddc64c2"
+}

@@ -1,0 +1,69 @@
+{
+  "selected": 10837,
+  "semantically_labeled": 10837,
+  "retained": 10698,
+  "unlabeled": 0,
+  "anchors": 40,
+  "draft_decisions": 427920,
+  "sources": 300,
+  "excluded_by_reason": {
+    "fragment": 4,
+    "context_missing": 1,
+    "garbled": 1,
+    "reference_or_caption": 1,
+    "enrichment_from_heldout_article": 130,
+    "near_duplicate_component": 2
+  },
+  "split_sizes": {
+    "train": 7228,
+    "val": 1223,
+    "test": 2247
+  },
+  "requested_split": [
+    0.7,
+    0.1,
+    0.2
+  ],
+  "seed": 673,
+  "source_overlap_between_splits": 0,
+  "split_policy": "frozen base articles; training-only enrichment",
+  "minimum_draft_positives": 77,
+  "anchors_below_75_positives": [],
+  "anchors_below_5_test_positives": [],
+  "anchors_with_fewer_than_2_positive_test_sources": [],
+  "human_approved_passages": 0,
+  "source_verified_passages": 22,
+  "provisional_definitions": 10,
+  "label_models": {
+    "gpt-5-mini-2025-08-07": 10698
+  },
+  "assistant_spot_checks": 23,
+  "queued_review_items": 7317,
+  "crosschecked_passages": 10698,
+  "passages_with_model_disagreements": 4644,
+  "model_disagreement_decisions": 5701,
+  "input_sha256": {
+    "selected_final_candidates.jsonl": "7754a3115ee255d7767fb153484c8f21925cf66edcbe801bae6ddfd85e00ead4",
+    "semantic_reviews.jsonl": "d84aa656e970593fc580050995627e4505e2d6eae10df9b31ddfc7c937f34620",
+    "anchors.json": "b3fefbfd15adab56a4c13f377fcfe5bdcd880c0e2ca054ef35b6aac1c3a39e40",
+    "crosscheck_reviews.jsonl": "4b95cd4492663fbed8cdc441382f7a2714decf1a002047df10590c174e290179",
+    "spot_checks.jsonl": "f11200e52b8292f12ec0b09f870ee57fe391ac2b406d9f3123557b6f0ca31c6f",
+    "frozen_source_splits.json": "b19a0ccb459f19eca4e6211e76bdf80ae2245f828afeac8f22ed8817dd8c4b9d",
+    "supplemental_candidates.jsonl": "2e940e18ca7fd997a8d4beb4d811a2ccfc5a9a621c135d3a8ac3e0b1224348f8",
+    "supplemental_raw.jsonl": "609c3dd09b8108ee284a666965ccba45a45a71b15a6bace2b2ef0041205bb9c8",
+    "label_protocol.json": "77650362b78a4c9cfde3914eeadbe1ec32fcd938488042c7ded86e920357579f"
+  },
+  "training_file_sha256": {
+    "labels.csv": "fdc607dd53d32ec9f709dae19d6a4a499cff0aea704c1f7f7b34ea0acdd367eb",
+    "texts.csv": "376fa644429f8db41952aef49c27889277c39850996e716d6cf4834cdad74702",
+    "meta.csv": "8f3363c300ab8c67a4140b4d4ba566e127b206cb3d9292f4d57ee153a8381425",
+    "split.json": "6d2266f781f1b5ca1df16b78bd47dc34ea5626cc40d5eb252f0a287d8beaa877",
+    "embeddings.npy": "43977cb28efea530d40810e53169690c70eef7cd1921f61dec0f1c5714140514",
+    "embedding_manifest.json": "d68d9dce3618831ba6577c4662595a792ad56a707bd86c97e382755a92f26413"
+  },
+  "exploratory_only": true,
+  "embeddings_generated": true,
+  "limitation": "AI drafts are not evaluation gold. Review labels and source text, finalize definitions, and freeze the evaluation protocol before measuring accuracy.",
+  "embedding_model": "text-embedding-3-small",
+  "embedding_dimensions": 1536
+}
